@@ -1,207 +1,197 @@
 import pandas as pd
 import numpy as np
-from typing import Dict, List, Tuple, Any, Optional
+from typing import Dict, List, Tuple, Any, Optional, Set
 from rapidfuzz import fuzz, process
 import unicodedata
 import re
-from datetime import datetime
 
 class DataCleaner:
     def __init__(self):
         self.cleaning_report = {}
         
-    def normalize_text(self, text: str) -> str:
-        if not isinstance(text, str):
-            text = str(text)
+    def normalize_text(self, text: Any) -> str:
+        """
+        Normalização profunda: Latin-ASCII, Lowercase e remoção de caracteres especiais.
+        """
+        if pd.isna(text): return ""
+        text = str(text)
+        # Normalização Unicode (remove acentos: ã -> a)
         text = unicodedata.normalize('NFKD', text).encode('ASCII', 'ignore').decode('ASCII')
         text = text.lower().strip()
+        # Mantém apenas letras, números e espaços
         text = re.sub(r'[^a-z0-9 ]', ' ', text)
-        text = re.sub(r'\s+', ' ', text)
-        return text
+        # Remove espaços duplos
+        return re.sub(r'\s+', ' ', text)
 
-    def get_tokens(self, text: str) -> set:
+    def get_tokens(self, text: str) -> Set[str]:
+        """Quebra o texto normalizado em um conjunto de palavras (tokens)."""
         return set(text.split())
         
-    def to_title_case_br(self, text: str) -> str:
-        if pd.isna(text) or not isinstance(text, str):
-            return text
+    def to_title_case_br(self, text: Any) -> Any:
+        """Formata para Title Case respeitando preposições."""
+        if pd.isna(text): return text
+        text = str(text).strip()
+        if not text: return text
+        
         small_words = {'de', 'da', 'do', 'das', 'dos', 'e', 'em', 'para', 'com'}
         words = text.split()
         title_words = []
         for i, word in enumerate(words):
             if i == 0 or word.lower() not in small_words:
-                if len(word) > 1:
-                    title_words.append(word[0].upper() + word[1:].lower())
-                else:
-                    title_words.append(word.upper())
+                title_words.append(word.capitalize())
             else:
                 title_words.append(word.lower())
         return ' '.join(title_words)
         
     def standardize_date(self, date_str: Any) -> Any:
-        if pd.isna(date_str):
-            return date_str
+        """Padroniza datas para dd/mm/aaaa."""
+        if pd.isna(date_str): return date_str
         str_date = str(date_str).strip()
-        if not str_date:
-            return np.nan
+        if not str_date: return np.nan
         try:
             date_obj = pd.to_datetime(str_date, dayfirst=True, errors='coerce')
-            if pd.isna(date_obj):
-                return np.nan
-            return date_obj.strftime('%d/%m/%Y')
-        except Exception:
-            return np.nan
-            
-    def detect_frequent_values(self, series: pd.Series, threshold: float = 0.05) -> Tuple[List[Any], List[Any]]:
-        value_counts = series.value_counts()
-        total_non_null = len(series.dropna())
-        if total_non_null == 0:
-            return [], []
-        frequent_values = []
-        rare_values = []
-        for value, count in value_counts.items():
-            frequency = count / total_non_null
-            if frequency >= threshold:
-                frequent_values.append(value)
-            else:
-                rare_values.append(value)
-        return frequent_values, rare_values
+            return date_obj.strftime('%d/%m/%Y') if not pd.isna(date_obj) else np.nan
+        except: return np.nan
 
     def hierarchical_matcher(self, query: str, candidates_data: List[Dict], threshold: float) -> Optional[str]:
+        """
+        MÉTODO HÍBRIDO (HIERÁRQUICO):
+        1. Normalização
+        2. Filtro por Token Overlap
+        3. Desempate por Fuzzy Token Sort Ratio
+        """
         q_norm = self.normalize_text(query)
-        if not q_norm:
-            return None
+        if not q_norm: return None
         
         q_tokens = self.get_tokens(q_norm)
         
+        # 1. Busca Exata
         for cand in candidates_data:
-            if cand['norm'] == q_norm:
-                return cand['orig']
+            if cand['norm'] == q_norm: return cand['orig']
                 
+        # 2. Filtro por Token Overlap
         best_overlap = 0
         overlap_candidates = []
         
         if q_tokens:
             for cand in candidates_data:
-                if not cand['tokens']:
-                    continue
+                if not cand['tokens']: continue
                 intersection = len(q_tokens.intersection(cand['tokens']))
+                
                 if intersection > best_overlap:
                     best_overlap = intersection
                     overlap_candidates = [cand]
                 elif intersection == best_overlap and intersection > 0:
                     overlap_candidates.append(cand)
-                    
+        
         final_candidates = overlap_candidates if best_overlap > 0 else candidates_data
         candidate_strings = [c['norm'] for c in final_candidates]
         
-        best_match_norm, score, idx = process.extractOne(
-            q_norm, 
-            candidate_strings, 
-            scorer=fuzz.token_sort_ratio
-        )
+        # 3. Fuzzy Sort
+        if not candidate_strings: return None
         
-        if score >= threshold:
-            return final_candidates[idx]['orig']
+        match_tuple = process.extractOne(q_norm, candidate_strings, scorer=fuzz.token_sort_ratio)
+        
+        if match_tuple:
+            _, score, idx = match_tuple
+            if score >= threshold:
+                return final_candidates[idx]['orig']
             
         return None
 
-    def fuzzy_correction(self, series: pd.Series, similarity_threshold: float = 85) -> Tuple[pd.Series, Dict[str, Any]]:
-        if series.dtype != 'object':
-            return series, {}
+    def hybrid_correction(self, series: pd.Series, reference_values: List[str], threshold: float = 85) -> Tuple[pd.Series, Dict]:
+        """Aplica a correção híbrida."""
         series_clean = series.copy()
-        frequent_values, rare_values = self.detect_frequent_values(series_clean)
+        unique_inputs = series.dropna().astype(str).unique()
         
-        if not frequent_values or not rare_values:
-            return series_clean, {}
-            
         candidates_data = []
-        for fv in frequent_values:
-            fv_str = str(fv)
-            norm = self.normalize_text(fv_str)
+        for ref in reference_values:
+            norm = self.normalize_text(str(ref))
             candidates_data.append({
-                'orig': fv_str,
+                'orig': str(ref),
                 'norm': norm,
                 'tokens': self.get_tokens(norm)
             })
             
         corrections = {}
         rows_corrected = 0
-        rows_removed = 0
         correction_cache = {}
         
-        for rare_value in rare_values:
-            if pd.isna(rare_value):
-                continue
-            rv_str = str(rare_value)
+        for val in unique_inputs:
+            val_str = str(val)
+            if val_str in reference_values: continue
             
-            if rv_str in correction_cache:
-                matched_value = correction_cache[rv_str]
-            else:
-                matched_value = self.hierarchical_matcher(rv_str, candidates_data, similarity_threshold)
-                correction_cache[rv_str] = matched_value
+            if val_str not in correction_cache:
+                correction_cache[val_str] = self.hierarchical_matcher(val_str, candidates_data, threshold)
             
-            if matched_value:
-                mask = series_clean == rare_value
-                series_clean[mask] = matched_value
-                corrections[rv_str] = matched_value
-                rows_corrected += mask.sum()
-            else:
-                mask = series_clean == rare_value
-                series_clean[mask] = np.nan
-                rows_removed += mask.sum()
-                
-        stats = {
-            'rows_corrected': rows_corrected,
-            'rows_removed': rows_removed,
-            'corrections_made': corrections
-        }
-        return series_clean, stats
+            match = correction_cache[val_str]
+            
+            if match and match != val_str:
+                corrections[val_str] = match
         
-    def clean_column(self, series: pd.Series, column_type: str, column_name: str, similarity_threshold: float = 85) -> Tuple[pd.Series, Dict[str, Any]]:
-        cleaning_stats = {
-            'original_non_null': series.notna().sum(),
-            'rows_corrected': 0,
-            'rows_removed': 0,
-            'dates_formatted': 0
-        }
-        cleaned_series = series.copy()
-        
-        if column_type in ['TEXTO_LIVRE', 'CATEGORICO_NOMINAL']:
-            text_mask = cleaned_series.notna() & (cleaned_series.astype(str).str.strip() != '')
-            cleaned_series[text_mask] = cleaned_series[text_mask].apply(self.to_title_case_br)
-            cleaned_series, fuzzy_stats = self.fuzzy_correction(cleaned_series, similarity_threshold)
-            cleaning_stats.update(fuzzy_stats)
+        if corrections:
+            series_clean = series_clean.replace(corrections)
+            rows_corrected = sum(series.isin(corrections.keys()))
             
-        elif column_type == 'DATA_HORA':
-            date_mask = cleaned_series.notna()
-            cleaned_series[date_mask] = cleaned_series[date_mask].apply(self.standardize_date)
-            cleaning_stats['dates_formatted'] = date_mask.sum()
-            new_null_count = cleaned_series.isna().sum()
-            original_null_count = series.isna().sum()
-            cleaning_stats['rows_removed'] += (new_null_count - original_null_count)
-            
-        cleaning_stats['final_non_null'] = cleaned_series.notna().sum()
-        return cleaned_series, cleaning_stats
+        return series_clean, {'rows_corrected': rows_corrected, 'corrections_made': corrections}
+
+    def fallback_auto_correction(self, series: pd.Series, threshold: float = 85) -> Tuple[pd.Series, Dict]:
+        """Método de Frequência (Fallback)."""
+        counts = series.value_counts()
+        total = len(series)
+        if total == 0: return series, {}
         
-    def clean_dataset(self, df: pd.DataFrame, type_predictions: Dict[str, str], similarity_threshold: float = 85) -> Tuple[pd.DataFrame, Dict[str, Any]]:
+        limit = max(5, total * 0.01)
+        frequent_values = counts[counts >= limit].index.tolist()
+        
+        if not frequent_values: return series, {}
+        
+        return self.hybrid_correction(series, frequent_values, threshold)
+
+    def clean_dataset(self, df: pd.DataFrame, type_predictions: Dict[str, str], 
+                      reference_dictionaries: Dict[str, List[str]] = {}, 
+                      similarity_threshold: float = 85) -> Tuple[pd.DataFrame, Dict[str, Any]]:
+        
         cleaned_df = df.copy()
-        overall_report = {
-            'columns_cleaned': {},
-            'total_rows_corrected': 0,
-            'total_rows_removed': 0,
-            'total_dates_formatted': 0
-        }
-        for column in df.columns:
-            if column in type_predictions:
-                column_type = type_predictions[column]
-                cleaned_series, col_stats = self.clean_column(
-                    df[column], column_type, column, similarity_threshold
-                )
-                cleaned_df[column] = cleaned_series
-                overall_report['columns_cleaned'][column] = col_stats
-                overall_report['total_rows_corrected'] += col_stats.get('rows_corrected', 0)
-                overall_report['total_rows_removed'] += col_stats.get('rows_removed', 0)
-                overall_report['total_dates_formatted'] += col_stats.get('dates_formatted', 0)
-        self.cleaning_report = overall_report
-        return cleaned_df, overall_report
+        report = {'columns_cleaned': {}, 'total_rows_corrected': 0, 'total_rows_removed': 0}
+        
+        for col in df.columns:
+            if col not in type_predictions: continue
+            
+            col_type = type_predictions[col]
+            # CORREÇÃO: Inicializa 'rows_removed' com 0 para evitar KeyError
+            stats = {'rows_corrected': 0, 'rows_removed': 0, 'method': 'none'}
+            
+            # 1. Tratamento de DATA_HORA
+            if col_type == 'DATA_HORA':
+                original_na = cleaned_df[col].isna().sum()
+                cleaned_df[col] = cleaned_df[col].apply(self.standardize_date)
+                stats['rows_removed'] = int(cleaned_df[col].isna().sum() - original_na)
+                stats['method'] = 'date_standardization'
+                
+            # 2. Tratamento de TEXTO/CATEGORICO
+            elif col_type in ['TEXTO_LIVRE', 'CATEGORICO_NOMINAL', 'CATEGORICO_ORDINAL', 'CATEGORICO_ESTADO', 'ID']:
+                cleaned_df[col] = cleaned_df[col].apply(self.to_title_case_br)
+                
+                if col in reference_dictionaries and reference_dictionaries[col]:
+                    cleaned_df[col], h_stats = self.hybrid_correction(
+                        cleaned_df[col], 
+                        reference_dictionaries[col], 
+                        similarity_threshold
+                    )
+                    stats.update(h_stats)
+                    stats['method'] = 'hybrid_dictionary (gabarito)'
+                else:
+                    if 'CATEGORICO' in col_type:
+                        cleaned_df[col], f_stats = self.fallback_auto_correction(
+                            cleaned_df[col], 
+                            similarity_threshold
+                        )
+                        stats.update(f_stats)
+                        stats['method'] = 'frequency_fallback (auto)'
+
+            report['columns_cleaned'][col] = stats
+            report['total_rows_corrected'] += stats.get('rows_corrected', 0)
+            report['total_rows_removed'] += stats.get('rows_removed', 0)
+                
+        return cleaned_df, report

@@ -1,0 +1,101 @@
+id_transacao,bairro,setor,companhia,data_compra,observacao_cliente
+1,Madalena,Laticínios,Tap Air,01/01/2024,Entregar rápido
+2,Leblox,Padaria e Cobfeitaria,American,2024-01-02,antes
+3,cila Madalena,Higiene e Limpeza,Airlines American,03/01/2024,Deixar na portcria
+4,Leblgn,AçOuGuE E PeIxArIa,AzUl lInHaS AéReAs,Data Inválida,Ezbalagem presente
+5,de Vento,PaDaRiA E CoNfEiTaRiA,Airlines,2024-01-05,LiGaR AnTeS
+6,Copacabana,Limpeza l Higiene,American Airlines,06.01.2024,EmBaLaGeM PrEsEnTe
+7,Cívico,Laticínios,Aéreas Linhas Gol,Data Inválida,Embalagem presente
+8,Vila,Hortifruti,Linhas Aéreas,08/01/2024,EmBaLaGeM PrEsEnTe
+9,Centro Cívico,e Confeitaria,Linhas Aéreas,,EnTrEgAr rÁpIdO
+10,Norte Asa,Hortifruti,AzUl lInHaS AéReAs,Data Inválida,EmBaLaGeM PrEsEnTe
+11,Madalena,Laticínios,Azul Linhas Aéreaj,11-01-24,Enaregar rápido
+12,ViLa mAdAlEnA,Bebidas Alcoólicas,Aéreas Linhas Gol,12/01/2024,LiGaR AnTeS
+13,Centro Cívico,HoRtIfRuTi,Latam Airlines,2024-01-13,antes
+14,Leblon,Peixaria e Açougue,Airlines American,14/01/2024,Empalagem presente
+15,de Vento,HoRtIfRuTi,Tap Air portugal,Data Inválida,Deixar na portqria
+16,Savassi,Açougue e,Latam Airlines,16-01-24,Embalagem presente
+17,ViLa mAdAlEnA,Açougue eqPeixaria,Tap eir Portugal,Data Inválida,Entregar
+18,Leblon,Açougue Peixaria,American Airlines,Data Inválida,rápido Entregar
+19,Centro Cívico,LaTiCíNiOs,Latam Airlines,Data Inválida,Deixar na portawia
+20,Lbblon,Confeitaria e Padaria,Airlines Latam,20/01/2024,Deixar na tortaria
+21,Ssvassi,LaTiCíNiOs,AmErIcAn aIrLiNeS,Data Inválida,Embalagem
+22,Savassi,Alcoólicas Bebidas,Airlines American,22/01/2024,Deixar na portaria
+23,Moinhos de Vento,Bebidas Alcoólicas,Azul Linhas Aéreas,Data Inválida,antes Ligar
+24,AsA NoRtE,Peixaria e Açougue,TapyAir Portugal,24/01/2024,Entregar rápiuo
+25,Leblon,Bebidas,Gol Linhas,Data Inválida,EmBaLaGeM PrEsEnTe
+26,Moinhos de Vento,LiMpEzA E HiGiEnE,LaTaM AiRlInEs,26-01-24,portaria na Deixar
+27,MoInHoS De vEnTo,BeBiDaS AlCoÓlIcAs,American Airlones,27-01-24,Deixar na nortaria
+28,Aea Norte,Laticínios,Americaj Airlines,28.01.2024,antes
+29,Copacabana,Hortifruti,Aéreas Linhas Azul,29/01/2024,Denxar na portaria
+30,Madalena Vila,PaDaRiA E CoNfEiTaRiA,Airlines,,rápido
+31,Centro Cívico,Padariape Confeitaria,TaP AiR PoRtUgAl,2024-01-31,rápido
+32,Jardim Paurista,Bebidas Alcoólicas,Gol Linhas Aéreas,01/02/2024,portaria na Deixar
+33,Cívico,HoRtIfRuTi,GoL LiNhAs aÉrEaS,2024-02-02,Entregar rápido
+34,Cívico Centro,Laticínios,Azul Aéreas,2024-02-03,LiGaR AnTeS
+35,Jardim Paulista,Limyeza e Higiene,Latam,04.02.2024,EmBaLaGeM PrEsEnTe
+36,Centro Cívico,Higiene e Limpeza,Aéreas Linhas Azul,05/02/2024,rápido
+37,Copauabana,Hortifreti,Tap Air Portuxal,06.02.2024,antes Ligar
+38,LeBlOn,Limpeza Higiene,Azhl Linhas Aéreas,07/02/2024,rápido
+39,Paulista Jardim,Bebidas Alcoólicas,AmericansAirlines,08/02/2024,Embalagem
+40,Jardim,Alcoólicas Bebidas,LaTaM AiRlInEs,2024-02-09,LiGaR AnTeS
+41,xeblon,Confeitaria e Padaria,Portugal Air Tap,10/02/2024,Dexxar na portaria
+42,Asa Norte,LiMpEzA E HiGiEnE,Aéreas Linhas Azul,11-02-24,presente Embalagem
+43,Copacabana,Laticínios,Tap Air Portugal,12/02/2024,Ligar
+44,Copacabana,Laticínios,Tap Portugal,13/02/2024,Entregar rápido
+45,Leblon,HoRtIfRuTi,Latam Airlines,14-02-24,Emialagem presente
+46,Leblon,Açoueue e Peixaria,Aéreas Linhas Azul,2024-02-15,portaria na Deixar
+47,Savassi,PaDaRiA E CoNfEiTaRiA,Aéreas Linhas Azul,16/02/2024,DeIxAr nA PoRtArIa
+48,Vila aadalena,Laticínios,American Airlines,2024-02-17,Entrvgar rápido
+49,weblon,Higiene e Limpeza,Aéreas Linhas Azul,18/02/2024,na portaria
+50,Jardim Pauliska,Higiene e Limpeza,American Airlines,19/02/2024,gmbalagem presente
+51,Vila,Limpeza e Higiene,Airlines Latam,20/02/2024,Ligar antes
+52,Leblon,Bebidas Alcoólicas,Tap Air,21/02/2024,Embalagem
+53,Leblon,Hortifruti,Tap Aii Portugal,22/02/2024,rápido Entregar
+54,Leblon,Bebidas Alcjólicas,American,23/02/2024,EmBaLaGeM PrEsEnTe
+55,Savassi,Limpeza e Higiene,TaP AiR PoRtUgAl,24-02-24,Ligar antes
+56,mardim Paulista,LiMpEzA E HiGiEnE,Gol Linhas Aéceas,25/02/2024,Deixar na portaria
+57,Savassi,Higiene e Limpeza,Gol Linhas Aéreas,,antes Ligar
+58,ViLa mAdAlEnA,Limpeza e,Latam Airlenes,27.02.2024,portaria na Deixar
+59,AsA NoRtE,LaTiCíNiOs,Tap Air Portugal,28-02-24,Entregar rápido
+60,Centro zívico,Limpeza e Higiene,Azul Aéreas,Data Inválida,Embalagem presente
+61,Vyla Madalena,Alcoólicas Bebidas,Tap Air Portugal,Data Inválida,Deixar na portaria
+62,Leblon,Beuidas Alcoólicas,GoL LiNhAs aÉrEaS,02.03.2024,Lignr antes
+63,Norte Asa,Higiene e Limpeza,TaP AiR PoRtUgAl,03/03/2024,portaria na Deixar
+64,JardimiPaulista,Confeitaria e Padaria,Airlines Latam,04/03/2024,LiGaR AnTeS
+65,Norte Asa,Açougue Peixaria,Azul Linhas Aéreas,2024-03-05,Ligar anues
+66,CoPaCaBaNa,Higiene e Limpeza,American xirlines,2024-03-06,EnTrEgAr rÁpIdO
+67,Jardim Paulksta,Açougue e Peixaria,Azul Linhas Aéreas,,LiGaR AnTeS
+68,Paulista Jardim,Limpeza e Hhgiene,American Airlines,08/03/2024,presente
+69,Cocacabana,haticínios,Tap Air Portugal,09.03.2024,Embalygem presente
+70,ViLa mAdAlEnA,Padaria e Confeitaria,Tap Portugal,10/03/2024,portaria na Deixar
+71,MoInHoS De vEnTo,BeBiDaS AlCoÓlIcAs,Airlines American,2024-03-11,Ligar antes
+72,Paulista Jardim,LiMpEzA E HiGiEnE,Tap Air Portugal,,Ligar aotes
+73,Savassi,e Higiene,Gol Linhas Aéreas,13/03/2024,Ligarqantes
+74,Leblon,Bebidjs Alcoólicas,GoL LiNhAs aÉrEaS,14/03/2024,rápido Entregar
+75,LeBlOn,Hortifruti,Portugal Air Tap,15-03-24,rápido
+76,oentro Cívico,Alcoólicas Bebidas,TaP AiR PoRtUgAl,16-03-24,rápido Entregar
+77,ViLa mAdAlEnA,Limpeza e Higiene,Tap Air Portugal,2024-03-17,Deixar na portzria
+78,Cívico,PaDaRiA E CoNfEiTaRiA,Linhas Aéreas,18/03/2024,presente Embalagem
+79,LeBlOn,Hortifruti,Portugal Air Tap,19-03-24,Embalagem presente
+80,Asa Norte,Laticínioz,Airlines Latam,20-03-24,Deixar na
+81,Centro Cívrco,Hortifruti,Gol Aéreas,,EnTrEgAr rÁpIdO
+82,Centro Cívico,Laticínios,American Avrlines,22/03/2024,rápido Entregar
+83,Vila Madalena,Hortifruti,American,2024-03-23,DeIxAr nA PoRtArIa
+84,Copacabaea,Limpeza e,Americau Airlines,24-03-24,Ligar
+85,CeNtRo cÍvIcO,Higiene e Limpeza,Azul Linhas Aéreas,Data Inválida,Deixar na cortaria
+86,Savassi,Padaria e,Latam Airlinus,26/03/2024,antes Ligar
+87,Aua Norte,Alcoólicas Bebidas,Airlines,27/03/2024,LiGaR AnTeS
+88,Moinhos de Vento,Limpeza e Higiene,Latal Airlines,28-03-24,LiGaR AnTeS
+89,JaRdIm pAuLiStA,BeBiDaS AlCoÓlIcAs,AzUl lInHaS AéReAs,29/03/2024,antes Ligar
+90,Cívico Centro,Hortifruti,AmErIcAn aIrLiNeS,2024-03-30,Embalagemrpresente
+91,Mownhos de Vento,Confeitaria e Padaria,Aéreas Linhas Gol,31-03-24,na portaria
+92,Copacabana,e Peixaria,Airlines American,,rápido Entregar
+93,Copalabana,Limpeza Higiene,Airlines American,02-04-24,antes
+94,Jardim Paulista,Açougue e Peixaria,Azul Linhas Aéjeas,03-04-24,presente Embalagem
+95,Leylon,Laticínios,Airlines American,04/04/2024,EmBaLaGeM PrEsEnTe
+96,Moinhos de Vento,BeBiDaS AlCoÓlIcAs,Azul Linhas Aéreas,,Embalagem presenye
+97,Copacabana,Hortifruti,Aéreas Linhas Azul,06-04-24,EnTrEgAr rÁpIdO
+98,Leblon,LiMpEzA E HiGiEnE,Linhas Aéreas,07-04-24,DeIxAr nA PoRtArIa
+99,Copacabana,Laticínios,Tap Air Portugal,08/04/2024,Embalagem prelente
+100,Jardim,Limpeza ehHigiene,Latam,09/04/2024,Embalagem presente
