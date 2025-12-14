@@ -1,0 +1,301 @@
+review_id,review_text,star_rating,posted_at
+REV-0,Não consigo logar,4 Stars,2023-03-29 05:39:41
+REV-1,Perfeito,1 Star,2023-07-07 13:23:48
+REV-2,Interface limpa,1 Star,2023-01-19 03:09:20
+REV-3,Trava muito,4 Stars,2023-08-25 22:29:47
+REV-4,Melhor app,4 Stars,2023-09-12 05:27:43
+REV-5,Pior atualização,3 Stars,2023-04-06 13:02:26
+REV-6,Perfeito,1 Star,2023-04-10 13:52:43
+REV-7,Interface limpa,1 Star,2023-03-29 15:39:45
+REV-8,Pior atualização,1 Star,2023-03-14 07:08:01
+REV-9,Interface limpa,4 Stars,2023-03-03 05:18:37
+REV-10,Pior atualização,5 Stars,2023-12-03 05:42:03
+REV-11,Perfeito,5 Stars,2023-03-31 02:42:17
+REV-12,Pior atualização,2 Stars,2023-02-06 20:38:08
+REV-13,Melhor app,3 Stars,2023-08-08 19:03:27
+REV-14,Perfeito,1 Star,2023-09-26 18:23:54
+REV-15,Não consigo logar,4 Stars,2023-12-02 23:07:16
+REV-16,Trava muito,1 Star,2023-02-03 10:49:16
+REV-17,Interface limpa,2 Stars,2023-02-16 08:33:43
+REV-18,Pior atualização,5 Stars,2023-12-01 22:46:46
+REV-19,Interface limpa,3 Stars,2023-02-14 03:22:16
+REV-20,Trava muito,5 Stars,2023-02-04 08:28:37
+REV-21,Não consigo logar,3 Stars,2023-08-20 08:05:46
+REV-22,Melhor app,1 Star,2023-12-28 16:19:34
+REV-23,Melhor app,5 Stars,2023-10-08 07:00:14
+REV-24,Pior atualização,4 Stars,2023-06-23 10:46:18
+REV-25,Pior atualização,4 Stars,2023-03-30 08:35:53
+REV-26,Trava muito,4 Stars,2023-05-07 06:44:48
+REV-27,Melhor app,3 Stars,2023-10-03 05:25:16
+REV-28,Não consigo logar,4 Stars,2023-09-11 03:26:40
+REV-29,Perfeito,1 Star,2023-12-16 21:18:38
+REV-30,Trava muito,4 Stars,2023-11-21 22:16:24
+REV-31,Melhor app,1 Star,2023-10-28 06:35:30
+REV-32,Não consigo logar,3 Stars,2023-09-12 15:46:52
+REV-33,Interface limpa,5 Stars,2023-12-25 09:54:16
+REV-34,Pior atualização,2 Stars,2023-02-14 02:54:16
+REV-35,Interface limpa,4 Stars,2023-02-02 19:52:14
+REV-36,Interface limpa,5 Stars,2023-11-25 07:46:15
+REV-37,Trava muito,5 Stars,2023-01-07 22:46:42
+REV-38,Interface limpa,1 Star,2023-01-28 06:18:31
+REV-39,Não consigo logar,1 Star,2023-01-03 17:56:55
+REV-40,Melhor app,1 Star,2023-02-01 22:51:21
+REV-41,Perfeito,2 Stars,2023-10-22 18:58:27
+REV-42,Pior atualização,1 Star,2023-11-20 08:58:12
+REV-43,Interface limpa,3 Stars,2023-01-14 03:41:34
+REV-44,Pior atualização,1 Star,2023-12-06 03:12:03
+REV-45,Pior atualização,5 Stars,2023-03-10 07:52:33
+REV-46,Pior atualização,3 Stars,2023-03-17 18:11:02
+REV-47,Perfeito,4 Stars,2023-01-27 23:03:41
+REV-48,Trava muito,5 Stars,2023-10-09 04:12:54
+REV-49,Perfeito,5 Stars,2023-06-06 11:14:44
+REV-50,Melhor app,2 Stars,2023-09-12 12:08:19
+REV-51,Interface limpa,2 Stars,2023-06-16 02:14:21
+REV-52,Trava muito,3 Stars,2023-10-16 08:58:16
+REV-53,Pior atualização,1 Star,2023-08-07 15:29:24
+REV-54,Não consigo logar,1 Star,2023-01-09 09:08:58
+REV-55,Pior atualização,3 Stars,2023-04-06 20:35:55
+REV-56,Não consigo logar,4 Stars,2023-05-13 09:44:53
+REV-57,Não consigo logar,4 Stars,2023-12-15 02:47:36
+REV-58,Interface limpa,2 Stars,2023-06-09 12:55:37
+REV-59,Perfeito,3 Stars,2023-09-14 16:03:44
+REV-60,Perfeito,3 Stars,2023-05-20 02:48:00
+REV-61,Pior atualização,1 Star,2023-05-20 10:22:41
+REV-62,Trava muito,1 Star,2023-07-04 08:55:17
+REV-63,Pior atualização,1 Star,2023-06-03 20:39:53
+REV-64,Não consigo logar,4 Stars,2023-10-22 14:08:27
+REV-65,Melhor app,3 Stars,2023-12-17 10:17:43
+REV-66,Pior atualização,2 Stars,2023-07-04 02:30:56
+REV-67,Não consigo logar,5 Stars,2023-10-15 20:10:26
+REV-68,Perfeito,1 Star,2023-04-29 09:31:32
+REV-69,Interface limpa,1 Star,2023-05-13 18:37:07
+REV-70,Pior atualização,3 Stars,2023-01-12 03:35:09
+REV-71,Trava muito,5 Stars,2023-09-06 21:12:16
+REV-72,Interface limpa,3 Stars,2023-09-07 10:36:14
+REV-73,Trava muito,4 Stars,2023-10-19 10:03:37
+REV-74,Não consigo logar,4 Stars,2023-05-24 00:05:50
+REV-75,Pior atualização,4 Stars,2023-11-22 21:01:11
+REV-76,Pior atualização,1 Star,2023-07-09 08:05:39
+REV-77,Perfeito,1 Star,2023-09-03 22:03:54
+REV-78,Pior atualização,2 Stars,2023-11-06 02:05:51
+REV-79,Não consigo logar,4 Stars,2023-02-28 08:51:32
+REV-80,Perfeito,5 Stars,2023-06-30 14:22:06
+REV-81,Trava muito,5 Stars,2023-06-19 04:11:58
+REV-82,Trava muito,2 Stars,2023-03-30 19:43:38
+REV-83,Melhor app,3 Stars,2023-09-04 17:37:56
+REV-84,Melhor app,5 Stars,2023-03-02 12:06:25
+REV-85,Perfeito,3 Stars,2023-04-25 19:16:33
+REV-86,Perfeito,5 Stars,2023-08-12 13:35:06
+REV-87,Perfeito,4 Stars,2023-06-16 15:48:04
+REV-88,Melhor app,4 Stars,2023-07-28 06:54:14
+REV-89,Trava muito,5 Stars,2023-09-18 04:46:05
+REV-90,Trava muito,5 Stars,2023-04-22 07:56:32
+REV-91,Melhor app,3 Stars,2023-10-23 00:38:20
+REV-92,Melhor app,3 Stars,2023-01-11 20:07:09
+REV-93,Pior atualização,2 Stars,2023-04-18 11:08:26
+REV-94,Trava muito,2 Stars,2023-10-09 14:54:24
+REV-95,Trava muito,4 Stars,2023-01-30 09:32:48
+REV-96,Interface limpa,3 Stars,2023-03-01 06:04:01
+REV-97,Pior atualização,2 Stars,2023-06-05 16:38:22
+REV-98,Perfeito,5 Stars,2023-01-15 09:56:14
+REV-99,Perfeito,4 Stars,2023-11-28 16:51:26
+REV-100,Não consigo logar,2 Stars,2023-08-02 08:04:23
+REV-101,Perfeito,1 Star,2023-02-26 06:58:44
+REV-102,Perfeito,4 Stars,2023-04-18 07:44:38
+REV-103,Pior atualização,3 Stars,2023-02-21 09:52:01
+REV-104,Interface limpa,5 Stars,2023-04-06 15:48:07
+REV-105,Trava muito,3 Stars,2023-11-15 07:01:21
+REV-106,Trava muito,3 Stars,2023-04-18 02:12:09
+REV-107,Melhor app,3 Stars,2023-03-03 22:11:11
+REV-108,Não consigo logar,3 Stars,2023-07-21 18:34:15
+REV-109,Pior atualização,1 Star,2023-01-11 05:03:50
+REV-110,Perfeito,1 Star,2023-07-24 18:19:45
+REV-111,Trava muito,5 Stars,2023-05-20 10:34:02
+REV-112,Trava muito,4 Stars,2023-07-29 09:45:47
+REV-113,Perfeito,1 Star,2023-10-13 21:08:44
+REV-114,Perfeito,1 Star,2023-06-06 20:38:23
+REV-115,Interface limpa,2 Stars,2023-10-09 21:52:59
+REV-116,Não consigo logar,4 Stars,2023-03-12 17:55:21
+REV-117,Trava muito,4 Stars,2023-08-14 17:15:07
+REV-118,Melhor app,5 Stars,2023-01-22 04:25:05
+REV-119,Interface limpa,1 Star,2023-10-14 14:16:43
+REV-120,Trava muito,3 Stars,2023-01-31 07:03:16
+REV-121,Interface limpa,5 Stars,2023-12-14 15:21:04
+REV-122,Perfeito,4 Stars,2023-07-01 12:06:23
+REV-123,Melhor app,1 Star,2023-12-25 00:20:32
+REV-124,Não consigo logar,1 Star,2023-08-27 00:46:02
+REV-125,Trava muito,1 Star,2023-11-22 05:39:29
+REV-126,Trava muito,5 Stars,2023-05-22 11:40:10
+REV-127,Não consigo logar,4 Stars,2023-06-18 11:54:31
+REV-128,Trava muito,4 Stars,2023-07-23 15:41:50
+REV-129,Pior atualização,2 Stars,2023-07-05 19:24:24
+REV-130,Melhor app,1 Star,2023-03-23 23:54:58
+REV-131,Trava muito,1 Star,2023-07-28 14:41:30
+REV-132,Não consigo logar,5 Stars,2023-04-21 02:36:25
+REV-133,Trava muito,5 Stars,2023-09-24 02:02:41
+REV-134,Não consigo logar,5 Stars,2023-11-24 12:11:47
+REV-135,Não consigo logar,3 Stars,2023-09-09 00:14:02
+REV-136,Interface limpa,1 Star,2023-11-01 00:01:03
+REV-137,Trava muito,5 Stars,2023-06-07 16:58:52
+REV-138,Melhor app,4 Stars,2023-06-19 23:53:42
+REV-139,Melhor app,2 Stars,2023-07-18 12:13:02
+REV-140,Perfeito,5 Stars,2023-11-22 20:21:40
+REV-141,Perfeito,5 Stars,2023-11-03 04:50:50
+REV-142,Interface limpa,1 Star,2023-04-27 05:24:37
+REV-143,Não consigo logar,2 Stars,2023-05-09 12:51:48
+REV-144,Interface limpa,1 Star,2023-06-06 12:24:33
+REV-145,Trava muito,1 Star,2023-12-29 20:17:37
+REV-146,Não consigo logar,3 Stars,2023-04-29 09:49:26
+REV-147,Melhor app,3 Stars,2023-12-15 01:08:41
+REV-148,Melhor app,1 Star,2023-05-15 12:53:20
+REV-149,Melhor app,3 Stars,2023-09-21 06:00:49
+REV-150,Interface limpa,1 Star,2023-07-01 09:51:03
+REV-151,Perfeito,3 Stars,2023-04-24 06:39:13
+REV-152,Pior atualização,2 Stars,2023-08-09 07:14:13
+REV-153,Interface limpa,5 Stars,2023-05-31 10:00:56
+REV-154,Pior atualização,1 Star,2023-07-14 15:24:20
+REV-155,Interface limpa,4 Stars,2023-03-06 05:18:51
+REV-156,Perfeito,2 Stars,2023-02-05 15:35:24
+REV-157,Interface limpa,4 Stars,2023-09-08 16:05:58
+REV-158,Trava muito,4 Stars,2023-06-08 21:55:02
+REV-159,Não consigo logar,5 Stars,2023-06-16 11:22:47
+REV-160,Perfeito,3 Stars,2023-08-18 14:57:24
+REV-161,Pior atualização,5 Stars,2023-10-14 20:23:35
+REV-162,Trava muito,3 Stars,2023-04-07 09:57:10
+REV-163,Perfeito,2 Stars,2023-03-28 02:38:20
+REV-164,Interface limpa,1 Star,2023-08-12 11:33:43
+REV-165,Trava muito,1 Star,2023-03-15 22:57:33
+REV-166,Perfeito,1 Star,2023-03-22 18:27:59
+REV-167,Perfeito,4 Stars,2023-01-10 06:08:30
+REV-168,Perfeito,1 Star,2023-10-07 17:02:22
+REV-169,Perfeito,3 Stars,2023-08-05 15:48:15
+REV-170,Interface limpa,2 Stars,2023-10-17 11:24:20
+REV-171,Melhor app,4 Stars,2023-01-22 17:30:35
+REV-172,Pior atualização,1 Star,2023-05-30 11:32:45
+REV-173,Melhor app,1 Star,2023-07-25 22:14:10
+REV-174,Trava muito,2 Stars,2023-09-13 23:51:02
+REV-175,Interface limpa,1 Star,2023-01-06 21:15:09
+REV-176,Pior atualização,3 Stars,2023-07-12 23:16:55
+REV-177,Não consigo logar,1 Star,2023-10-18 02:06:18
+REV-178,Interface limpa,2 Stars,2023-05-03 16:39:23
+REV-179,Perfeito,3 Stars,2023-04-22 08:18:57
+REV-180,Interface limpa,1 Star,2023-02-03 21:32:10
+REV-181,Trava muito,1 Star,2023-02-10 20:15:21
+REV-182,Trava muito,1 Star,2023-12-10 23:07:15
+REV-183,Interface limpa,1 Star,2023-06-07 05:00:43
+REV-184,Não consigo logar,3 Stars,2023-05-31 22:41:02
+REV-185,Trava muito,3 Stars,2023-06-29 12:22:16
+REV-186,Trava muito,1 Star,2023-03-17 11:03:37
+REV-187,Não consigo logar,4 Stars,2023-06-06 10:45:08
+REV-188,Trava muito,2 Stars,2023-02-20 11:22:26
+REV-189,Trava muito,1 Star,2023-10-10 10:29:09
+REV-190,Não consigo logar,3 Stars,2023-09-09 19:27:56
+REV-191,Trava muito,4 Stars,2023-04-16 07:27:54
+REV-192,Pior atualização,5 Stars,2023-09-11 17:22:28
+REV-193,Não consigo logar,2 Stars,2023-06-15 11:12:31
+REV-194,Interface limpa,5 Stars,2023-03-21 07:31:24
+REV-195,Não consigo logar,5 Stars,2023-10-09 04:47:46
+REV-196,Interface limpa,5 Stars,2023-04-06 18:28:43
+REV-197,Pior atualização,4 Stars,2023-09-30 17:40:13
+REV-198,Melhor app,4 Stars,2023-05-21 04:13:24
+REV-199,Não consigo logar,3 Stars,2023-08-12 13:57:32
+REV-200,Não consigo logar,1 Star,2023-08-15 11:57:37
+REV-201,Não consigo logar,3 Stars,2023-03-06 14:24:53
+REV-202,Trava muito,2 Stars,2023-09-21 12:26:02
+REV-203,Melhor app,2 Stars,2023-08-06 22:12:05
+REV-204,Interface limpa,1 Star,2023-04-05 10:31:20
+REV-205,Trava muito,2 Stars,2023-12-14 19:43:20
+REV-206,Pior atualização,5 Stars,2023-07-05 11:12:17
+REV-207,Pior atualização,5 Stars,2023-05-05 13:33:12
+REV-208,Perfeito,4 Stars,2023-03-14 05:29:52
+REV-209,Não consigo logar,4 Stars,2023-12-04 09:15:39
+REV-210,Pior atualização,5 Stars,2023-06-17 08:15:38
+REV-211,Pior atualização,4 Stars,2023-03-26 23:48:52
+REV-212,Interface limpa,1 Star,2023-07-01 06:52:19
+REV-213,Interface limpa,4 Stars,2023-06-25 10:28:57
+REV-214,Interface limpa,5 Stars,2023-01-18 17:21:00
+REV-215,Perfeito,2 Stars,2023-08-09 06:47:50
+REV-216,Não consigo logar,3 Stars,2023-02-02 01:57:08
+REV-217,Trava muito,3 Stars,2023-08-29 22:12:52
+REV-218,Trava muito,1 Star,2023-06-30 06:23:12
+REV-219,Perfeito,1 Star,2023-06-16 18:00:27
+REV-220,Interface limpa,4 Stars,2023-03-20 05:52:36
+REV-221,Perfeito,2 Stars,2023-01-04 22:21:39
+REV-222,Perfeito,5 Stars,2023-05-03 10:11:03
+REV-223,Interface limpa,4 Stars,2023-02-05 00:48:35
+REV-224,Trava muito,2 Stars,2023-02-23 21:35:25
+REV-225,Não consigo logar,1 Star,2023-03-14 10:01:17
+REV-226,Perfeito,2 Stars,2023-03-17 00:24:29
+REV-227,Perfeito,3 Stars,2023-07-27 16:56:32
+REV-228,Não consigo logar,4 Stars,2023-12-11 07:00:51
+REV-229,Interface limpa,2 Stars,2023-05-28 16:24:44
+REV-230,Trava muito,4 Stars,2023-12-27 08:39:46
+REV-231,Melhor app,4 Stars,2023-05-17 06:04:12
+REV-232,Pior atualização,4 Stars,2023-11-18 12:19:27
+REV-233,Melhor app,1 Star,2023-12-06 18:34:40
+REV-234,Trava muito,1 Star,2023-02-16 10:51:29
+REV-235,Perfeito,1 Star,2023-10-06 05:03:36
+REV-236,Trava muito,2 Stars,2023-06-06 14:16:02
+REV-237,Interface limpa,3 Stars,2023-08-16 14:09:44
+REV-238,Pior atualização,5 Stars,2023-02-08 20:54:56
+REV-239,Interface limpa,3 Stars,2023-07-26 03:26:06
+REV-240,Interface limpa,4 Stars,2023-09-15 14:07:55
+REV-241,Interface limpa,2 Stars,2023-02-13 09:36:00
+REV-242,Trava muito,5 Stars,2023-03-31 20:06:25
+REV-243,Trava muito,1 Star,2023-10-07 14:50:00
+REV-244,Interface limpa,3 Stars,2023-07-07 02:49:06
+REV-245,Pior atualização,2 Stars,2023-02-06 07:08:08
+REV-246,Trava muito,5 Stars,2023-01-26 17:05:59
+REV-247,Melhor app,2 Stars,2023-11-12 15:06:08
+REV-248,Perfeito,5 Stars,2023-03-18 01:03:16
+REV-249,Melhor app,1 Star,2023-05-21 06:50:20
+REV-250,Trava muito,2 Stars,2023-05-17 14:37:28
+REV-251,Perfeito,4 Stars,2023-11-26 16:41:03
+REV-252,Interface limpa,1 Star,2023-09-16 06:40:21
+REV-253,Trava muito,2 Stars,2023-05-08 15:39:26
+REV-254,Não consigo logar,5 Stars,2023-01-26 10:33:46
+REV-255,Interface limpa,1 Star,2023-08-30 15:42:28
+REV-256,Trava muito,1 Star,2023-05-12 21:24:13
+REV-257,Perfeito,4 Stars,2023-06-19 15:23:07
+REV-258,Melhor app,5 Stars,2023-05-15 08:01:57
+REV-259,Pior atualização,1 Star,2023-12-14 03:19:11
+REV-260,Melhor app,4 Stars,2023-02-22 11:23:23
+REV-261,Não consigo logar,5 Stars,2023-11-28 21:47:04
+REV-262,Não consigo logar,2 Stars,2023-05-22 02:08:53
+REV-263,Trava muito,4 Stars,2023-03-25 20:30:10
+REV-264,Não consigo logar,5 Stars,2023-01-21 13:33:06
+REV-265,Melhor app,2 Stars,2023-03-29 17:50:18
+REV-266,Pior atualização,2 Stars,2023-01-08 21:25:30
+REV-267,Melhor app,5 Stars,2023-11-11 05:29:55
+REV-268,Perfeito,1 Star,2023-11-09 11:55:49
+REV-269,Não consigo logar,5 Stars,2023-01-11 13:18:25
+REV-270,Interface limpa,5 Stars,2023-07-07 06:50:18
+REV-271,Perfeito,5 Stars,2023-03-24 06:16:39
+REV-272,Trava muito,3 Stars,2023-05-25 08:16:26
+REV-273,Perfeito,3 Stars,2023-06-28 00:01:02
+REV-274,Não consigo logar,4 Stars,2023-03-07 08:48:22
+REV-275,Perfeito,3 Stars,2023-10-28 00:24:49
+REV-276,Perfeito,3 Stars,2023-01-12 21:14:37
+REV-277,Trava muito,4 Stars,2023-10-29 07:35:52
+REV-278,Pior atualização,5 Stars,2023-02-07 23:06:02
+REV-279,Pior atualização,2 Stars,2023-04-01 09:34:08
+REV-280,Não consigo logar,5 Stars,2023-12-04 06:45:12
+REV-281,Perfeito,5 Stars,2023-06-21 03:58:22
+REV-282,Trava muito,3 Stars,2023-10-30 14:45:37
+REV-283,Não consigo logar,2 Stars,2023-05-13 16:09:17
+REV-284,Pior atualização,5 Stars,2023-08-02 14:43:59
+REV-285,Interface limpa,2 Stars,2023-09-19 15:48:56
+REV-286,Interface limpa,2 Stars,2023-06-18 18:12:51
+REV-287,Perfeito,5 Stars,2023-04-29 00:22:50
+REV-288,Interface limpa,5 Stars,2023-07-26 14:02:39
+REV-289,Pior atualização,4 Stars,2023-04-04 23:24:53
+REV-290,Melhor app,2 Stars,2023-09-10 20:37:37
+REV-291,Melhor app,1 Star,2023-03-08 07:29:31
+REV-292,Interface limpa,1 Star,2023-08-01 21:40:59
+REV-293,Perfeito,1 Star,2023-02-08 07:45:31
+REV-294,Perfeito,5 Stars,2023-05-08 05:32:45
+REV-295,Perfeito,2 Stars,2023-05-15 21:40:45
+REV-296,Perfeito,5 Stars,2023-05-21 04:08:53
+REV-297,Não consigo logar,2 Stars,2023-03-22 10:29:40
+REV-298,Não consigo logar,3 Stars,2023-04-21 03:04:13
+REV-299,Não consigo logar,3 Stars,2023-06-16 20:09:37

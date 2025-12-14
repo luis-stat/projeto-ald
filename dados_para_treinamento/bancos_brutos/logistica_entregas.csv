@@ -1,0 +1,301 @@
+tracking_code,motorista,tipo_veiculo,status_entrega,distancia_km,data_hora_saida
+TRK-93810,Motorista 0,Caminhão,Entregue,65.1,2023-04-21 12:42:45
+TRK-24592,Motorista 1,Moto,Falhou,405.8,2023-07-29 09:29:08
+TRK-13278,Motorista 2,Caminhão,Pendente,410.5,2023-07-19 01:20:56
+TRK-46048,Motorista 3,Caminhão,Pendente,313.3,2023-05-22 18:19:12
+TRK-42098,Motorista 4,Moto,Falhou,410.4,2023-01-11 22:26:29
+TRK-39256,Motorista 5,Moto,Pendente,326.1,2023-11-24 05:35:16
+TRK-28289,Motorista 6,Caminhão,Falhou,104.1,2023-08-08 19:13:09
+TRK-23434,Motorista 7,Van,Pendente,137.7,2023-10-25 08:35:17
+TRK-98696,Motorista 8,Caminhão,Em Rota,108.1,2023-07-07 10:03:34
+TRK-81482,Motorista 9,Caminhão,Pendente,189.3,2023-06-20 17:52:47
+TRK-21395,Motorista 10,Caminhão,Falhou,20.4,2023-08-09 06:49:39
+TRK-87397,Motorista 11,Caminhão,Falhou,309.5,2023-12-18 07:53:01
+TRK-65302,Motorista 12,Moto,Falhou,168.9,2023-12-08 23:35:38
+TRK-14165,Motorista 13,Caminhão,Falhou,328.2,2023-04-07 22:35:41
+TRK-13905,Motorista 14,Van,Falhou,193.3,2023-07-11 03:27:57
+TRK-22280,Motorista 15,Moto,Entregue,341.1,2023-02-28 12:41:01
+TRK-38657,Motorista 16,Van,Entregue,171.0,2023-03-16 11:54:06
+TRK-40495,Motorista 17,Van,Pendente,131.1,2023-02-18 00:28:07
+TRK-76237,Motorista 18,Van,Falhou,248.5,2023-11-02 05:48:38
+TRK-88907,Motorista 19,Van,Pendente,346.8,2023-11-13 23:30:16
+TRK-13478,Motorista 20,Moto,Falhou,174.8,2023-04-15 19:50:14
+TRK-83563,Motorista 21,Moto,Falhou,468.4,2023-08-25 15:28:02
+TRK-36062,Motorista 22,Van,Entregue,20.6,2023-02-23 09:12:18
+TRK-95181,Motorista 23,Van,Entregue,209.6,2023-05-11 02:46:54
+TRK-81426,Motorista 24,Moto,Em Rota,483.8,2023-07-26 03:21:11
+TRK-64987,Motorista 25,Moto,Entregue,274.4,2023-03-23 23:16:52
+TRK-38893,Motorista 26,Moto,Em Rota,212.3,2023-10-17 02:53:23
+TRK-68878,Motorista 27,Caminhão,Em Rota,284.7,2023-09-09 22:24:23
+TRK-87236,Motorista 28,Caminhão,Em Rota,288.4,2023-05-13 10:09:34
+TRK-46463,Motorista 29,Caminhão,Em Rota,366.1,2023-10-25 12:41:41
+TRK-10851,Motorista 30,Van,Em Rota,64.7,2023-12-26 10:26:09
+TRK-30926,Motorista 31,Caminhão,Pendente,125.8,2023-10-10 15:33:39
+TRK-65392,Motorista 32,Van,Entregue,290.7,2023-02-05 19:30:35
+TRK-54597,Motorista 33,Van,Em Rota,433.7,2023-06-15 16:33:14
+TRK-46421,Motorista 34,Caminhão,Falhou,281.4,2023-11-01 19:54:43
+TRK-30379,Motorista 35,Van,Entregue,120.1,2023-09-21 11:09:02
+TRK-38221,Motorista 36,Caminhão,Entregue,340.2,2023-08-16 06:41:09
+TRK-54118,Motorista 37,Caminhão,Em Rota,370.2,2023-11-11 00:40:21
+TRK-23396,Motorista 38,Moto,Pendente,119.9,2023-01-05 11:45:52
+TRK-22156,Motorista 39,Caminhão,Em Rota,189.5,2023-11-13 20:13:17
+TRK-59797,Motorista 40,Moto,Pendente,267.6,2023-12-06 06:38:47
+TRK-22676,Motorista 41,Caminhão,Falhou,248.8,2023-07-26 02:28:53
+TRK-57052,Motorista 42,Caminhão,Entregue,195.4,2023-08-16 17:00:34
+TRK-55082,Motorista 43,Moto,Falhou,149.5,2023-01-28 06:57:01
+TRK-89131,Motorista 44,Moto,Pendente,50.9,2023-04-14 04:02:22
+TRK-44671,Motorista 45,Caminhão,Pendente,27.7,2023-07-08 05:44:42
+TRK-15695,Motorista 46,Van,Falhou,479.3,2023-03-06 15:11:03
+TRK-70217,Motorista 47,Moto,Pendente,423.7,2023-01-03 19:59:21
+TRK-80284,Motorista 48,Van,Falhou,178.1,2023-11-22 04:25:22
+TRK-26361,Motorista 49,Van,Entregue,478.4,2023-05-12 11:40:28
+TRK-59615,Motorista 50,Van,Falhou,338.7,2023-07-12 06:37:31
+TRK-20328,Motorista 51,Moto,Entregue,241.8,2023-04-08 01:29:40
+TRK-82357,Motorista 52,Van,Falhou,247.0,2023-12-17 18:48:57
+TRK-48427,Motorista 53,Moto,Pendente,42.6,2023-06-17 08:40:21
+TRK-92397,Motorista 54,Van,Falhou,46.8,2023-01-01 17:52:03
+TRK-91070,Motorista 55,Caminhão,Pendente,301.6,2023-06-27 00:57:54
+TRK-57400,Motorista 56,Caminhão,Falhou,277.3,2023-07-28 12:08:51
+TRK-85674,Motorista 57,Moto,Falhou,107.2,2023-04-04 01:36:19
+TRK-35203,Motorista 58,Caminhão,Em Rota,473.2,2023-01-12 01:08:00
+TRK-19116,Motorista 59,Caminhão,Pendente,390.9,2023-11-15 06:30:35
+TRK-16006,Motorista 60,Van,Em Rota,57.6,2023-09-29 12:12:30
+TRK-96673,Motorista 61,Moto,Pendente,465.5,2023-07-24 01:33:52
+TRK-39871,Motorista 62,Van,Em Rota,487.1,2023-03-03 21:23:37
+TRK-47930,Motorista 63,Van,Entregue,498.0,2023-04-18 02:25:17
+TRK-20458,Motorista 64,Van,Falhou,28.9,2023-03-09 05:48:21
+TRK-40512,Motorista 65,Van,Pendente,368.8,2023-06-04 18:12:52
+TRK-23238,Motorista 66,Van,Pendente,273.4,2023-10-31 10:18:37
+TRK-59823,Motorista 67,Van,Falhou,353.2,2023-10-22 13:03:06
+TRK-46434,Motorista 68,Van,Pendente,484.4,2023-04-26 16:02:06
+TRK-69429,Motorista 69,Moto,Pendente,344.3,2023-08-16 13:17:23
+TRK-93320,Motorista 70,Caminhão,Em Rota,418.6,2023-01-17 09:20:12
+TRK-57819,Motorista 71,Van,Pendente,433.6,2023-03-08 14:00:10
+TRK-31319,Motorista 72,Van,Entregue,419.4,2023-01-07 14:47:30
+TRK-58520,Motorista 73,Van,Entregue,213.6,2023-09-03 23:49:52
+TRK-56566,Motorista 74,Van,Falhou,112.1,2023-04-12 13:22:13
+TRK-37460,Motorista 75,Van,Pendente,198.9,2023-02-03 03:29:53
+TRK-97841,Motorista 76,Van,Falhou,446.1,2023-02-26 19:37:27
+TRK-44993,Motorista 77,Caminhão,Entregue,74.2,2023-03-21 15:28:09
+TRK-99593,Motorista 78,Caminhão,Pendente,257.1,2023-03-27 21:43:32
+TRK-94939,Motorista 79,Van,Pendente,117.4,2023-02-13 11:52:54
+TRK-19358,Motorista 80,Caminhão,Falhou,291.1,2023-04-12 18:08:09
+TRK-89840,Motorista 81,Moto,Entregue,431.7,2023-10-05 15:26:35
+TRK-93227,Motorista 82,Van,Pendente,440.3,2023-11-16 00:55:29
+TRK-32431,Motorista 83,Moto,Falhou,119.1,2023-04-12 11:25:00
+TRK-80010,Motorista 84,Moto,Entregue,453.9,2023-08-31 18:53:27
+TRK-42087,Motorista 85,Van,Falhou,296.4,2023-09-15 20:16:01
+TRK-31417,Motorista 86,Caminhão,Em Rota,175.8,2023-04-06 23:18:43
+TRK-70589,Motorista 87,Moto,Pendente,354.4,2023-08-19 16:30:56
+TRK-59735,Motorista 88,Van,Em Rota,241.4,2023-10-26 20:55:26
+TRK-45382,Motorista 89,Moto,Entregue,189.6,2023-04-01 05:38:44
+TRK-93886,Motorista 90,Moto,Em Rota,352.8,2023-05-15 18:13:28
+TRK-83000,Motorista 91,Moto,Em Rota,125.1,2023-05-01 01:38:24
+TRK-38785,Motorista 92,Moto,Entregue,165.8,2023-12-30 22:22:00
+TRK-99733,Motorista 93,Caminhão,Falhou,217.8,2023-04-04 21:21:14
+TRK-52504,Motorista 94,Moto,Em Rota,127.6,2023-08-08 12:43:58
+TRK-17331,Motorista 95,Moto,Falhou,203.2,2023-05-21 11:46:31
+TRK-40021,Motorista 96,Moto,Em Rota,286.2,2023-08-14 15:41:25
+TRK-14207,Motorista 97,Caminhão,Falhou,370.7,2023-10-05 22:13:10
+TRK-51347,Motorista 98,Moto,Entregue,383.8,2023-09-17 19:59:30
+TRK-62581,Motorista 99,Moto,Em Rota,411.6,2023-09-12 10:20:13
+TRK-45093,Motorista 100,Caminhão,Entregue,372.4,2023-09-13 08:22:54
+TRK-18675,Motorista 101,Caminhão,Em Rota,340.8,2023-12-13 20:25:40
+TRK-37653,Motorista 102,Caminhão,Entregue,119.5,2023-05-04 23:56:45
+TRK-84341,Motorista 103,Moto,Entregue,200.7,2023-07-08 06:05:47
+TRK-51245,Motorista 104,Caminhão,Em Rota,239.4,2023-07-23 06:51:23
+TRK-37869,Motorista 105,Caminhão,Em Rota,42.4,2023-04-23 18:10:57
+TRK-95909,Motorista 106,Moto,Em Rota,264.7,2023-12-20 10:13:33
+TRK-75435,Motorista 107,Caminhão,Pendente,218.7,2023-06-11 14:04:36
+TRK-61856,Motorista 108,Moto,Falhou,401.3,2023-08-03 00:01:59
+TRK-94259,Motorista 109,Van,Pendente,489.0,2023-11-22 19:47:22
+TRK-70142,Motorista 110,Caminhão,Pendente,278.4,2023-02-11 18:42:16
+TRK-28726,Motorista 111,Van,Entregue,162.0,2023-04-04 07:07:13
+TRK-44718,Motorista 112,Moto,Em Rota,22.7,2023-03-18 19:55:55
+TRK-28301,Motorista 113,Caminhão,Falhou,462.4,2023-07-30 04:53:54
+TRK-42325,Motorista 114,Moto,Entregue,459.6,2023-07-18 15:43:30
+TRK-83579,Motorista 115,Van,Pendente,127.2,2023-08-16 09:29:36
+TRK-80644,Motorista 116,Moto,Em Rota,348.0,2023-12-02 07:52:07
+TRK-44438,Motorista 117,Caminhão,Entregue,38.6,2023-05-22 12:04:15
+TRK-86622,Motorista 118,Caminhão,Em Rota,83.9,2023-07-26 19:48:37
+TRK-66155,Motorista 119,Van,Entregue,109.2,2023-03-02 15:05:31
+TRK-86484,Motorista 120,Moto,Em Rota,148.0,2023-10-20 20:34:07
+TRK-62350,Motorista 121,Caminhão,Pendente,497.9,2023-01-14 03:32:44
+TRK-57447,Motorista 122,Van,Falhou,348.8,2023-12-12 23:27:03
+TRK-38746,Motorista 123,Caminhão,Pendente,192.7,2023-11-05 10:37:28
+TRK-28131,Motorista 124,Caminhão,Falhou,368.8,2023-01-25 22:49:08
+TRK-76784,Motorista 125,Moto,Em Rota,457.7,2023-11-10 21:52:13
+TRK-74686,Motorista 126,Caminhão,Entregue,479.4,2023-05-13 08:03:07
+TRK-21915,Motorista 127,Moto,Pendente,29.9,2023-08-28 14:41:38
+TRK-16175,Motorista 128,Caminhão,Falhou,197.9,2023-01-11 02:32:52
+TRK-24371,Motorista 129,Van,Pendente,54.3,2023-11-30 22:16:04
+TRK-30033,Motorista 130,Caminhão,Falhou,168.5,2023-04-14 03:14:12
+TRK-92240,Motorista 131,Moto,Pendente,85.7,2023-03-07 10:56:18
+TRK-30969,Motorista 132,Moto,Falhou,323.8,2023-02-26 09:46:34
+TRK-99192,Motorista 133,Van,Falhou,194.7,2023-02-17 00:41:49
+TRK-65333,Motorista 134,Caminhão,Em Rota,115.5,2023-03-22 08:07:25
+TRK-88172,Motorista 135,Caminhão,Falhou,133.7,2023-12-28 07:02:27
+TRK-18326,Motorista 136,Van,Em Rota,180.8,2023-07-03 18:11:36
+TRK-60432,Motorista 137,Caminhão,Falhou,130.7,2023-04-20 09:20:44
+TRK-60019,Motorista 138,Caminhão,Entregue,227.2,2023-04-28 18:32:09
+TRK-88104,Motorista 139,Moto,Entregue,17.1,2023-04-01 11:28:24
+TRK-71348,Motorista 140,Caminhão,Entregue,140.6,2023-06-13 18:33:53
+TRK-79352,Motorista 141,Caminhão,Falhou,206.2,2023-07-23 18:49:11
+TRK-42953,Motorista 142,Van,Em Rota,301.8,2023-11-26 21:10:31
+TRK-82512,Motorista 143,Van,Em Rota,136.2,2023-03-23 06:31:02
+TRK-11504,Motorista 144,Moto,Falhou,67.5,2023-05-22 10:09:43
+TRK-99166,Motorista 145,Caminhão,Entregue,39.0,2023-04-07 15:47:25
+TRK-25014,Motorista 146,Caminhão,Entregue,470.3,2023-03-03 03:23:11
+TRK-99353,Motorista 147,Caminhão,Em Rota,208.9,2023-03-28 14:37:38
+TRK-80381,Motorista 148,Moto,Entregue,291.0,2023-12-10 16:46:52
+TRK-44973,Motorista 149,Moto,Pendente,459.7,2023-08-12 20:08:05
+TRK-94012,Motorista 150,Van,Em Rota,42.3,2023-02-05 17:16:16
+TRK-54587,Motorista 151,Moto,Entregue,438.5,2023-09-27 12:33:26
+TRK-24621,Motorista 152,Caminhão,Em Rota,276.2,2023-03-03 20:57:34
+TRK-48469,Motorista 153,Caminhão,Pendente,83.3,2023-05-16 05:33:02
+TRK-66985,Motorista 154,Moto,Em Rota,206.2,2023-12-23 14:38:24
+TRK-30730,Motorista 155,Caminhão,Em Rota,389.0,2023-10-08 20:56:56
+TRK-69470,Motorista 156,Caminhão,Em Rota,240.7,2023-07-08 21:30:56
+TRK-10425,Motorista 157,Moto,Em Rota,492.7,2023-02-26 12:34:40
+TRK-44522,Motorista 158,Moto,Pendente,189.0,2023-02-12 14:34:22
+TRK-75612,Motorista 159,Caminhão,Falhou,375.0,2023-02-23 14:57:58
+TRK-33416,Motorista 160,Caminhão,Em Rota,197.1,2023-01-31 04:44:49
+TRK-76542,Motorista 161,Caminhão,Em Rota,414.8,2023-08-12 05:12:45
+TRK-23947,Motorista 162,Van,Entregue,285.0,2023-07-24 18:17:24
+TRK-91959,Motorista 163,Van,Em Rota,32.7,2023-01-12 00:59:19
+TRK-49117,Motorista 164,Van,Entregue,19.4,2023-05-03 10:20:23
+TRK-93748,Motorista 165,Moto,Falhou,67.8,2023-12-17 11:34:10
+TRK-76540,Motorista 166,Van,Pendente,7.8,2023-07-08 05:50:30
+TRK-89818,Motorista 167,Moto,Pendente,38.6,2023-04-02 11:57:57
+TRK-36071,Motorista 168,Moto,Falhou,346.2,2023-04-26 22:19:49
+TRK-30032,Motorista 169,Van,Pendente,267.6,2023-08-22 04:19:14
+TRK-59009,Motorista 170,Van,Falhou,375.2,2023-05-15 14:49:42
+TRK-31174,Motorista 171,Van,Falhou,456.7,2023-07-18 04:14:42
+TRK-80697,Motorista 172,Caminhão,Falhou,293.0,2023-12-04 01:35:03
+TRK-79514,Motorista 173,Van,Pendente,363.3,2023-11-06 01:53:45
+TRK-10074,Motorista 174,Caminhão,Entregue,378.8,2023-11-18 02:34:39
+TRK-88504,Motorista 175,Moto,Falhou,189.5,2023-05-13 15:21:23
+TRK-52487,Motorista 176,Caminhão,Em Rota,121.3,2023-09-04 16:42:54
+TRK-74042,Motorista 177,Van,Pendente,103.3,2023-06-30 09:42:06
+TRK-12552,Motorista 178,Moto,Falhou,126.5,2023-05-24 10:14:52
+TRK-24662,Motorista 179,Moto,Falhou,138.1,2023-06-10 20:50:40
+TRK-57576,Motorista 180,Moto,Em Rota,104.4,2023-04-20 21:56:03
+TRK-50306,Motorista 181,Caminhão,Entregue,439.2,2023-12-19 05:49:17
+TRK-41385,Motorista 182,Van,Entregue,378.7,2023-06-12 10:22:30
+TRK-17592,Motorista 183,Moto,Entregue,24.4,2023-05-22 02:16:58
+TRK-41571,Motorista 184,Moto,Falhou,135.1,2023-10-01 15:51:56
+TRK-84364,Motorista 185,Moto,Falhou,12.1,2023-06-10 22:20:21
+TRK-20322,Motorista 186,Caminhão,Falhou,249.6,2023-04-30 11:02:16
+TRK-21226,Motorista 187,Caminhão,Pendente,238.6,2023-12-16 16:33:36
+TRK-73699,Motorista 188,Van,Em Rota,415.9,2023-07-11 15:45:00
+TRK-19071,Motorista 189,Caminhão,Falhou,154.6,2023-11-10 06:08:36
+TRK-79822,Motorista 190,Moto,Em Rota,408.4,2023-09-13 05:37:30
+TRK-26483,Motorista 191,Van,Em Rota,484.0,2023-03-29 10:19:34
+TRK-26828,Motorista 192,Moto,Entregue,45.1,2023-05-05 10:10:40
+TRK-96474,Motorista 193,Moto,Pendente,396.1,2023-04-24 11:03:25
+TRK-72296,Motorista 194,Caminhão,Falhou,295.4,2023-03-12 13:38:11
+TRK-82063,Motorista 195,Van,Entregue,240.5,2023-06-05 10:09:05
+TRK-31643,Motorista 196,Caminhão,Entregue,210.8,2023-08-19 23:06:49
+TRK-44741,Motorista 197,Caminhão,Falhou,392.5,2023-03-31 04:18:12
+TRK-79163,Motorista 198,Van,Em Rota,320.0,2023-03-29 18:29:14
+TRK-89507,Motorista 199,Moto,Entregue,402.7,2023-08-19 10:07:05
+TRK-65461,Motorista 200,Moto,Em Rota,451.7,2023-11-02 10:22:24
+TRK-37760,Motorista 201,Van,Pendente,309.0,2023-03-09 06:49:25
+TRK-80686,Motorista 202,Moto,Em Rota,490.3,2023-02-16 23:11:33
+TRK-36365,Motorista 203,Van,Pendente,304.4,2023-09-18 01:14:52
+TRK-50857,Motorista 204,Van,Em Rota,318.7,2023-03-04 11:21:02
+TRK-62296,Motorista 205,Caminhão,Entregue,277.9,2023-07-09 23:18:06
+TRK-98039,Motorista 206,Van,Entregue,46.4,2023-05-15 07:57:23
+TRK-95180,Motorista 207,Caminhão,Pendente,363.5,2023-07-12 15:19:08
+TRK-58944,Motorista 208,Moto,Falhou,274.2,2023-05-04 17:05:27
+TRK-67422,Motorista 209,Moto,Pendente,226.0,2023-04-30 01:47:31
+TRK-77839,Motorista 210,Moto,Pendente,455.3,2023-11-28 04:25:27
+TRK-69177,Motorista 211,Moto,Em Rota,149.7,2023-04-24 18:06:06
+TRK-25860,Motorista 212,Caminhão,Em Rota,262.3,2023-01-21 21:31:08
+TRK-42493,Motorista 213,Moto,Pendente,349.1,2023-02-09 16:12:55
+TRK-39451,Motorista 214,Van,Entregue,398.4,2023-03-15 13:37:08
+TRK-18392,Motorista 215,Van,Em Rota,230.2,2023-04-09 13:11:56
+TRK-54313,Motorista 216,Van,Falhou,421.2,2023-05-14 15:58:38
+TRK-12757,Motorista 217,Caminhão,Em Rota,384.7,2023-05-15 11:23:47
+TRK-87110,Motorista 218,Moto,Em Rota,34.1,2023-06-24 02:43:23
+TRK-82603,Motorista 219,Moto,Falhou,23.9,2023-11-08 00:51:56
+TRK-40161,Motorista 220,Moto,Pendente,310.8,2023-03-05 22:53:53
+TRK-87128,Motorista 221,Caminhão,Falhou,174.4,2023-08-07 06:09:30
+TRK-38864,Motorista 222,Van,Pendente,105.4,2023-01-26 23:31:42
+TRK-10942,Motorista 223,Van,Pendente,290.2,2023-08-22 06:36:34
+TRK-19305,Motorista 224,Moto,Pendente,171.4,2023-11-17 13:17:38
+TRK-92719,Motorista 225,Van,Falhou,269.1,2023-05-30 13:05:39
+TRK-17716,Motorista 226,Van,Pendente,230.6,2023-07-02 00:51:47
+TRK-40007,Motorista 227,Caminhão,Entregue,292.8,2023-09-18 13:26:49
+TRK-18834,Motorista 228,Caminhão,Falhou,200.7,2023-03-31 10:21:30
+TRK-14117,Motorista 229,Caminhão,Entregue,349.1,2023-09-20 10:31:54
+TRK-53309,Motorista 230,Caminhão,Pendente,90.9,2023-04-07 17:39:16
+TRK-19287,Motorista 231,Moto,Em Rota,348.6,2023-11-19 10:29:39
+TRK-77391,Motorista 232,Caminhão,Pendente,206.4,2023-04-05 22:58:18
+TRK-41195,Motorista 233,Van,Entregue,437.3,2023-10-23 18:22:53
+TRK-46500,Motorista 234,Moto,Entregue,258.1,2023-04-20 09:22:17
+TRK-97684,Motorista 235,Van,Falhou,486.6,2023-11-24 10:18:15
+TRK-73624,Motorista 236,Van,Em Rota,301.4,2023-09-19 19:31:49
+TRK-38080,Motorista 237,Van,Falhou,112.7,2023-02-09 04:41:41
+TRK-80678,Motorista 238,Caminhão,Entregue,411.1,2023-04-30 23:54:47
+TRK-27342,Motorista 239,Caminhão,Pendente,173.2,2023-03-27 14:15:50
+TRK-84847,Motorista 240,Moto,Em Rota,174.5,2023-02-23 02:32:14
+TRK-85525,Motorista 241,Moto,Pendente,16.9,2023-11-29 01:05:29
+TRK-71953,Motorista 242,Caminhão,Pendente,274.8,2023-04-08 23:18:05
+TRK-41850,Motorista 243,Van,Em Rota,267.7,2023-10-05 03:32:58
+TRK-71993,Motorista 244,Moto,Falhou,178.6,2023-09-02 06:30:35
+TRK-63354,Motorista 245,Caminhão,Pendente,447.2,2023-10-06 11:56:09
+TRK-34957,Motorista 246,Caminhão,Entregue,65.2,2023-01-15 12:46:04
+TRK-22363,Motorista 247,Caminhão,Pendente,165.7,2023-11-10 08:35:51
+TRK-22704,Motorista 248,Van,Em Rota,161.5,2023-10-20 17:28:29
+TRK-96374,Motorista 249,Caminhão,Em Rota,47.1,2023-12-17 04:32:17
+TRK-66498,Motorista 250,Caminhão,Em Rota,241.1,2023-04-14 08:37:44
+TRK-56438,Motorista 251,Caminhão,Falhou,344.2,2023-10-27 00:48:32
+TRK-65519,Motorista 252,Caminhão,Pendente,256.3,2023-05-04 12:56:14
+TRK-63883,Motorista 253,Moto,Falhou,79.3,2023-09-03 09:22:03
+TRK-71213,Motorista 254,Moto,Falhou,189.3,2023-12-16 05:37:46
+TRK-17100,Motorista 255,Caminhão,Em Rota,2.3,2023-05-01 20:02:19
+TRK-98259,Motorista 256,Van,Em Rota,434.3,2023-02-02 07:40:27
+TRK-95649,Motorista 257,Moto,Falhou,43.2,2023-05-11 21:30:11
+TRK-94696,Motorista 258,Caminhão,Pendente,299.0,2023-08-22 01:01:35
+TRK-22899,Motorista 259,Moto,Entregue,493.1,2023-03-08 12:40:35
+TRK-17944,Motorista 260,Moto,Falhou,268.8,2023-02-20 19:27:00
+TRK-62772,Motorista 261,Van,Pendente,462.1,2023-02-01 00:55:19
+TRK-54473,Motorista 262,Caminhão,Em Rota,118.8,2023-07-24 11:45:11
+TRK-24322,Motorista 263,Caminhão,Em Rota,380.2,2023-05-26 15:17:18
+TRK-42591,Motorista 264,Van,Pendente,266.1,2023-07-23 21:19:37
+TRK-35112,Motorista 265,Van,Entregue,360.5,2023-10-07 10:54:40
+TRK-34931,Motorista 266,Caminhão,Em Rota,32.1,2023-10-25 01:28:59
+TRK-80292,Motorista 267,Caminhão,Em Rota,74.7,2023-12-27 07:02:54
+TRK-68800,Motorista 268,Van,Em Rota,67.4,2023-09-14 03:14:01
+TRK-28373,Motorista 269,Moto,Pendente,343.9,2023-11-16 05:11:36
+TRK-65296,Motorista 270,Moto,Falhou,422.4,2023-04-23 03:07:33
+TRK-34050,Motorista 271,Van,Em Rota,375.1,2023-12-15 09:32:34
+TRK-46509,Motorista 272,Moto,Falhou,16.2,2023-04-13 20:42:04
+TRK-70637,Motorista 273,Van,Entregue,433.7,2023-05-14 10:41:17
+TRK-42742,Motorista 274,Moto,Em Rota,177.7,2023-08-21 14:52:23
+TRK-19880,Motorista 275,Moto,Em Rota,199.2,2023-08-12 19:14:48
+TRK-68082,Motorista 276,Caminhão,Entregue,53.3,2023-07-03 14:31:49
+TRK-82132,Motorista 277,Caminhão,Em Rota,369.0,2023-08-09 12:35:22
+TRK-22833,Motorista 278,Moto,Falhou,92.0,2023-10-02 17:49:10
+TRK-16630,Motorista 279,Moto,Pendente,282.4,2023-10-07 12:50:08
+TRK-95477,Motorista 280,Caminhão,Falhou,420.5,2023-07-12 00:47:41
+TRK-80855,Motorista 281,Caminhão,Pendente,45.5,2023-03-18 02:35:16
+TRK-11934,Motorista 282,Caminhão,Pendente,268.1,2023-01-24 04:12:04
+TRK-22224,Motorista 283,Van,Falhou,117.4,2023-03-14 11:28:25
+TRK-40982,Motorista 284,Moto,Falhou,172.1,2023-05-28 04:07:09
+TRK-31798,Motorista 285,Caminhão,Falhou,237.5,2023-11-26 17:55:47
+TRK-63269,Motorista 286,Moto,Falhou,178.2,2023-03-19 05:08:38
+TRK-73653,Motorista 287,Van,Entregue,324.8,2023-12-04 00:07:20
+TRK-73092,Motorista 288,Van,Em Rota,240.3,2023-07-19 21:43:28
+TRK-38016,Motorista 289,Caminhão,Pendente,292.5,2023-05-15 15:48:14
+TRK-62565,Motorista 290,Van,Falhou,368.7,2023-12-02 21:08:05
+TRK-17685,Motorista 291,Moto,Falhou,279.3,2023-06-09 17:19:50
+TRK-31579,Motorista 292,Caminhão,Falhou,293.7,2023-02-11 09:57:06
+TRK-59672,Motorista 293,Moto,Entregue,282.7,2023-09-23 08:24:07
+TRK-10282,Motorista 294,Moto,Falhou,190.0,2023-11-11 18:14:38
+TRK-61173,Motorista 295,Van,Falhou,169.4,2023-01-29 02:19:00
+TRK-44760,Motorista 296,Van,Falhou,449.9,2023-08-03 00:54:06
+TRK-69638,Motorista 297,Van,Em Rota,304.2,2023-01-04 16:26:48
+TRK-47388,Motorista 298,Van,Entregue,122.9,2023-04-13 12:14:44
+TRK-65444,Motorista 299,Van,Falhou,249.6,2023-12-18 13:30:48

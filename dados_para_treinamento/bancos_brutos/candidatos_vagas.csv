@@ -1,0 +1,301 @@
+candidato_id,vaga_aplicada,anos_experiencia,pretensao_salarial,escolaridade,contratado
+CAND-0000,Data Scientist,8,16772.16,Mestrado,False
+CAND-0001,Dev Junior,2,18900.41,Mestrado,False
+CAND-0002,Dev Senior,5,10762.69,Mestrado,False
+CAND-0003,Dev Junior,5,8186.83,Mestrado,False
+CAND-0004,Data Scientist,5,14986.52,Mestrado,False
+CAND-0005,Dev Junior,5,6247.49,Médio,False
+CAND-0006,Dev Senior,2,12353.79,Mestrado,True
+CAND-0007,PM,14,19134.6,Pós-Graduação,False
+CAND-0008,Dev Senior,14,7732.59,Pós-Graduação,False
+CAND-0009,Dev Senior,6,9559.87,Médio,False
+CAND-0010,Data Scientist,11,6632.22,Médio,False
+CAND-0011,Dev Junior,10,8022.06,Mestrado,False
+CAND-0012,PM,8,6606.45,Superior,False
+CAND-0013,Dev Senior,1,4729.47,Médio,False
+CAND-0014,Data Scientist,5,18046.04,Médio,True
+CAND-0015,Dev Junior,1,17772.78,Mestrado,False
+CAND-0016,Data Scientist,4,5377.08,Pós-Graduação,True
+CAND-0017,Dev Junior,11,8363.51,Pós-Graduação,False
+CAND-0018,Dev Senior,0,10959.44,Pós-Graduação,True
+CAND-0019,PM,9,14469.64,Médio,False
+CAND-0020,Data Scientist,9,8339.13,Mestrado,False
+CAND-0021,Dev Junior,4,10571.63,Mestrado,True
+CAND-0022,PM,13,14753.69,Pós-Graduação,False
+CAND-0023,PM,10,16014.43,Médio,False
+CAND-0024,Dev Senior,10,9069.67,Médio,False
+CAND-0025,Data Scientist,6,14398.86,Superior,False
+CAND-0026,Dev Junior,9,10723.86,Pós-Graduação,False
+CAND-0027,Dev Senior,5,7058.96,Pós-Graduação,False
+CAND-0028,Data Scientist,8,5916.49,Superior,False
+CAND-0029,Dev Senior,11,11554.35,Médio,False
+CAND-0030,Dev Senior,6,11004.64,Pós-Graduação,False
+CAND-0031,Dev Senior,5,3644.09,Pós-Graduação,False
+CAND-0032,Dev Junior,5,12142.55,Mestrado,True
+CAND-0033,Data Scientist,10,3929.55,Mestrado,False
+CAND-0034,Data Scientist,14,4342.1,Pós-Graduação,True
+CAND-0035,Dev Junior,6,9813.48,Pós-Graduação,False
+CAND-0036,PM,14,10128.08,Superior,False
+CAND-0037,Dev Junior,4,13440.35,Superior,False
+CAND-0038,Data Scientist,4,8916.75,Médio,False
+CAND-0039,Dev Junior,0,14036.31,Mestrado,False
+CAND-0040,Dev Junior,6,16939.72,Médio,False
+CAND-0041,Data Scientist,14,10165.4,Mestrado,False
+CAND-0042,Data Scientist,3,12850.29,Médio,False
+CAND-0043,Data Scientist,10,6836.8,Médio,False
+CAND-0044,Dev Senior,3,19731.41,Mestrado,False
+CAND-0045,Data Scientist,14,7941.28,Médio,False
+CAND-0046,Dev Junior,8,18598.32,Mestrado,False
+CAND-0047,Data Scientist,13,15446.32,Pós-Graduação,False
+CAND-0048,PM,11,7656.54,Superior,False
+CAND-0049,Dev Junior,4,5505.62,Pós-Graduação,True
+CAND-0050,Dev Senior,6,12348.86,Médio,False
+CAND-0051,Dev Junior,7,11480.2,Mestrado,False
+CAND-0052,Data Scientist,2,16949.41,Médio,False
+CAND-0053,PM,13,9735.94,Pós-Graduação,False
+CAND-0054,Data Scientist,10,17795.94,Mestrado,False
+CAND-0055,Dev Junior,4,16820.47,Mestrado,False
+CAND-0056,Data Scientist,4,12547.66,Pós-Graduação,False
+CAND-0057,PM,4,16070.76,Pós-Graduação,False
+CAND-0058,PM,7,9444.63,Pós-Graduação,False
+CAND-0059,PM,8,8239.32,Mestrado,False
+CAND-0060,Data Scientist,5,13363.01,Pós-Graduação,True
+CAND-0061,Dev Junior,11,16957.84,Pós-Graduação,False
+CAND-0062,Dev Senior,8,10507.51,Superior,False
+CAND-0063,PM,8,11864.07,Mestrado,True
+CAND-0064,Data Scientist,0,12081.05,Médio,False
+CAND-0065,Dev Junior,0,16195.99,Mestrado,False
+CAND-0066,Data Scientist,6,15787.84,Superior,False
+CAND-0067,Dev Junior,4,12577.23,Pós-Graduação,False
+CAND-0068,PM,10,19599.15,Mestrado,False
+CAND-0069,Data Scientist,1,19754.08,Pós-Graduação,False
+CAND-0070,Data Scientist,12,17213.03,Superior,False
+CAND-0071,Dev Junior,11,10869.27,Pós-Graduação,False
+CAND-0072,PM,1,3318.7,Mestrado,False
+CAND-0073,PM,5,4245.76,Médio,False
+CAND-0074,PM,11,5800.94,Pós-Graduação,False
+CAND-0075,PM,8,6185.51,Mestrado,False
+CAND-0076,PM,11,8448.04,Mestrado,False
+CAND-0077,Dev Junior,8,4813.85,Médio,False
+CAND-0078,Dev Senior,13,17615.64,Pós-Graduação,False
+CAND-0079,Data Scientist,6,5215.34,Médio,False
+CAND-0080,Dev Senior,0,17627.83,Pós-Graduação,False
+CAND-0081,Data Scientist,6,17465.43,Médio,False
+CAND-0082,Data Scientist,0,19645.71,Superior,False
+CAND-0083,Data Scientist,5,10760.73,Médio,False
+CAND-0084,PM,6,6164.21,Mestrado,False
+CAND-0085,PM,13,12668.85,Pós-Graduação,False
+CAND-0086,Dev Junior,12,19492.35,Pós-Graduação,False
+CAND-0087,Dev Junior,5,8581.03,Superior,False
+CAND-0088,Dev Senior,1,13064.27,Mestrado,True
+CAND-0089,Dev Junior,14,3561.5,Médio,False
+CAND-0090,Dev Senior,1,15159.65,Mestrado,False
+CAND-0091,Data Scientist,10,9305.42,Mestrado,False
+CAND-0092,Dev Senior,2,7148.55,Médio,True
+CAND-0093,Dev Senior,12,15942.48,Pós-Graduação,False
+CAND-0094,PM,13,14468.51,Pós-Graduação,False
+CAND-0095,Data Scientist,1,19712.15,Pós-Graduação,False
+CAND-0096,PM,11,3150.11,Pós-Graduação,False
+CAND-0097,PM,5,18744.29,Médio,False
+CAND-0098,Dev Junior,13,11206.23,Pós-Graduação,False
+CAND-0099,Dev Senior,10,15520.68,Superior,False
+CAND-0100,PM,1,13178.49,Superior,False
+CAND-0101,Data Scientist,8,13505.13,Mestrado,False
+CAND-0102,Data Scientist,3,18177.91,Médio,False
+CAND-0103,Dev Senior,12,11187.42,Médio,False
+CAND-0104,Dev Senior,6,5569.41,Médio,False
+CAND-0105,Data Scientist,12,14887.03,Médio,False
+CAND-0106,Dev Junior,1,8690.28,Mestrado,False
+CAND-0107,Data Scientist,7,15987.42,Superior,False
+CAND-0108,Dev Junior,6,9130.11,Pós-Graduação,False
+CAND-0109,PM,0,11556.39,Médio,False
+CAND-0110,Dev Senior,12,11280.55,Superior,False
+CAND-0111,Dev Senior,0,17898.47,Superior,False
+CAND-0112,Dev Junior,3,9766.97,Pós-Graduação,False
+CAND-0113,Data Scientist,2,3252.61,Superior,False
+CAND-0114,Dev Senior,8,4900.29,Superior,False
+CAND-0115,PM,1,10403.4,Médio,False
+CAND-0116,Dev Senior,3,10276.98,Pós-Graduação,False
+CAND-0117,Dev Senior,2,12327.0,Pós-Graduação,False
+CAND-0118,Dev Junior,1,19177.65,Pós-Graduação,False
+CAND-0119,Dev Junior,12,9358.49,Médio,False
+CAND-0120,Dev Junior,5,6755.66,Superior,False
+CAND-0121,PM,10,16124.05,Superior,False
+CAND-0122,Dev Junior,13,3578.93,Pós-Graduação,False
+CAND-0123,PM,14,19552.49,Superior,False
+CAND-0124,Dev Junior,8,4643.96,Mestrado,False
+CAND-0125,Dev Senior,2,16176.06,Superior,False
+CAND-0126,Dev Senior,5,18140.38,Pós-Graduação,True
+CAND-0127,Dev Senior,8,12027.44,Médio,True
+CAND-0128,Dev Senior,11,3628.5,Pós-Graduação,False
+CAND-0129,Dev Senior,10,6291.24,Pós-Graduação,False
+CAND-0130,Dev Senior,2,12752.29,Superior,False
+CAND-0131,PM,14,11048.7,Mestrado,False
+CAND-0132,PM,4,11379.24,Mestrado,False
+CAND-0133,PM,5,16161.81,Pós-Graduação,False
+CAND-0134,Dev Senior,4,17666.78,Superior,False
+CAND-0135,Data Scientist,1,13320.08,Mestrado,True
+CAND-0136,Data Scientist,14,12225.08,Mestrado,False
+CAND-0137,PM,4,13074.9,Superior,False
+CAND-0138,PM,1,17098.23,Médio,False
+CAND-0139,Dev Senior,12,19963.44,Superior,False
+CAND-0140,Dev Junior,5,8944.9,Pós-Graduação,False
+CAND-0141,PM,0,11092.68,Mestrado,False
+CAND-0142,PM,1,11482.43,Pós-Graduação,True
+CAND-0143,PM,7,17922.23,Superior,False
+CAND-0144,PM,11,8223.98,Pós-Graduação,False
+CAND-0145,PM,6,12941.8,Pós-Graduação,True
+CAND-0146,PM,5,7342.0,Médio,True
+CAND-0147,Data Scientist,3,12711.82,Mestrado,False
+CAND-0148,PM,4,8830.43,Médio,False
+CAND-0149,Dev Senior,3,16107.51,Pós-Graduação,False
+CAND-0150,PM,9,16165.93,Mestrado,False
+CAND-0151,Dev Senior,8,9221.8,Médio,False
+CAND-0152,PM,4,11688.82,Mestrado,False
+CAND-0153,Dev Junior,6,3863.52,Pós-Graduação,False
+CAND-0154,Data Scientist,4,8090.01,Médio,True
+CAND-0155,Dev Junior,1,3575.13,Pós-Graduação,False
+CAND-0156,Dev Senior,11,4182.25,Superior,False
+CAND-0157,Dev Junior,2,13861.96,Mestrado,False
+CAND-0158,Data Scientist,4,17805.83,Superior,False
+CAND-0159,Dev Junior,2,5271.64,Médio,False
+CAND-0160,Dev Senior,14,15956.8,Mestrado,True
+CAND-0161,PM,10,14843.07,Pós-Graduação,False
+CAND-0162,PM,10,4645.1,Superior,False
+CAND-0163,PM,14,17781.61,Pós-Graduação,False
+CAND-0164,Dev Senior,8,12489.71,Pós-Graduação,False
+CAND-0165,Dev Senior,8,13680.04,Médio,False
+CAND-0166,Dev Junior,5,9154.87,Mestrado,False
+CAND-0167,Data Scientist,14,3315.62,Superior,False
+CAND-0168,PM,4,7178.37,Mestrado,False
+CAND-0169,Dev Senior,9,14880.88,Superior,False
+CAND-0170,Dev Senior,9,16913.25,Médio,False
+CAND-0171,PM,2,4415.33,Médio,False
+CAND-0172,Dev Junior,9,3584.64,Superior,False
+CAND-0173,Dev Junior,2,12494.19,Superior,False
+CAND-0174,PM,4,16847.27,Mestrado,False
+CAND-0175,Dev Senior,8,10657.04,Pós-Graduação,True
+CAND-0176,Dev Senior,9,13444.72,Médio,False
+CAND-0177,Dev Junior,0,19849.43,Pós-Graduação,False
+CAND-0178,Dev Junior,5,15686.7,Pós-Graduação,True
+CAND-0179,PM,7,17256.91,Mestrado,False
+CAND-0180,PM,2,4699.19,Superior,False
+CAND-0181,PM,3,7882.76,Médio,False
+CAND-0182,Data Scientist,10,9630.6,Médio,False
+CAND-0183,Data Scientist,8,8455.86,Médio,False
+CAND-0184,PM,0,15945.06,Superior,False
+CAND-0185,Dev Junior,11,15528.02,Médio,False
+CAND-0186,Dev Junior,11,16821.97,Médio,False
+CAND-0187,Data Scientist,0,7518.71,Médio,False
+CAND-0188,Dev Senior,12,9141.95,Médio,False
+CAND-0189,Dev Senior,7,16345.51,Médio,False
+CAND-0190,PM,5,17393.22,Superior,False
+CAND-0191,Dev Junior,14,4375.21,Pós-Graduação,False
+CAND-0192,Data Scientist,14,13163.59,Pós-Graduação,False
+CAND-0193,PM,2,3017.96,Mestrado,True
+CAND-0194,Dev Junior,4,12604.96,Superior,False
+CAND-0195,Dev Junior,1,10277.99,Superior,False
+CAND-0196,Dev Junior,1,16293.01,Médio,False
+CAND-0197,Dev Senior,9,6588.33,Superior,False
+CAND-0198,PM,5,9563.31,Pós-Graduação,False
+CAND-0199,Data Scientist,3,7972.67,Mestrado,False
+CAND-0200,Data Scientist,8,15237.42,Pós-Graduação,False
+CAND-0201,Data Scientist,9,15079.55,Pós-Graduação,False
+CAND-0202,Data Scientist,8,4652.1,Superior,False
+CAND-0203,Dev Junior,1,13708.82,Mestrado,False
+CAND-0204,Dev Senior,8,10267.6,Mestrado,False
+CAND-0205,PM,6,13258.58,Mestrado,False
+CAND-0206,PM,3,13277.07,Médio,False
+CAND-0207,Dev Senior,12,16671.68,Pós-Graduação,False
+CAND-0208,PM,2,10445.17,Mestrado,False
+CAND-0209,PM,2,16666.43,Médio,False
+CAND-0210,Dev Junior,0,18292.33,Mestrado,False
+CAND-0211,Data Scientist,4,7278.86,Médio,False
+CAND-0212,PM,13,10893.51,Mestrado,False
+CAND-0213,Dev Senior,13,14035.87,Pós-Graduação,False
+CAND-0214,Data Scientist,6,13643.95,Mestrado,False
+CAND-0215,Dev Junior,5,12009.92,Superior,False
+CAND-0216,PM,0,4449.13,Superior,False
+CAND-0217,Data Scientist,4,19586.68,Médio,False
+CAND-0218,Dev Senior,9,12372.9,Médio,False
+CAND-0219,Data Scientist,9,18635.12,Superior,False
+CAND-0220,Dev Senior,0,19030.21,Pós-Graduação,False
+CAND-0221,Data Scientist,14,7495.25,Pós-Graduação,False
+CAND-0222,Dev Junior,14,7768.42,Superior,False
+CAND-0223,Data Scientist,10,10792.41,Superior,False
+CAND-0224,Dev Senior,10,4943.88,Médio,True
+CAND-0225,Dev Junior,11,13400.26,Superior,False
+CAND-0226,PM,1,9662.9,Mestrado,False
+CAND-0227,Dev Junior,14,14203.91,Superior,False
+CAND-0228,Dev Senior,12,14573.31,Mestrado,False
+CAND-0229,Dev Junior,0,5758.04,Médio,False
+CAND-0230,Data Scientist,8,3717.47,Mestrado,False
+CAND-0231,PM,9,7342.86,Pós-Graduação,False
+CAND-0232,Data Scientist,2,8223.6,Superior,False
+CAND-0233,PM,1,11986.86,Superior,True
+CAND-0234,Dev Junior,10,16067.98,Superior,False
+CAND-0235,Dev Junior,11,7562.99,Mestrado,False
+CAND-0236,PM,11,13521.46,Médio,False
+CAND-0237,Data Scientist,6,19713.42,Mestrado,False
+CAND-0238,Dev Senior,6,6891.19,Médio,False
+CAND-0239,Data Scientist,9,19872.23,Pós-Graduação,False
+CAND-0240,Dev Junior,10,10670.36,Médio,False
+CAND-0241,Dev Senior,8,5197.54,Médio,False
+CAND-0242,Dev Senior,4,9854.78,Superior,False
+CAND-0243,Dev Senior,11,14377.29,Médio,False
+CAND-0244,Dev Junior,7,12789.97,Pós-Graduação,False
+CAND-0245,Dev Junior,14,7532.62,Médio,False
+CAND-0246,Dev Senior,3,17866.01,Superior,False
+CAND-0247,Dev Senior,12,6629.37,Mestrado,False
+CAND-0248,Data Scientist,7,5306.69,Médio,False
+CAND-0249,Dev Junior,8,3502.44,Superior,False
+CAND-0250,Dev Senior,5,9875.84,Médio,False
+CAND-0251,Dev Senior,2,4738.62,Mestrado,False
+CAND-0252,Dev Junior,13,15982.64,Médio,False
+CAND-0253,Dev Junior,0,4678.94,Superior,False
+CAND-0254,PM,0,12408.55,Médio,False
+CAND-0255,Dev Senior,5,10259.64,Superior,False
+CAND-0256,Dev Senior,9,19023.44,Pós-Graduação,False
+CAND-0257,Dev Senior,0,5875.79,Pós-Graduação,False
+CAND-0258,Dev Senior,3,16174.84,Médio,False
+CAND-0259,PM,6,13836.71,Mestrado,True
+CAND-0260,Dev Senior,6,13119.08,Superior,False
+CAND-0261,Data Scientist,10,13936.79,Superior,False
+CAND-0262,PM,13,17959.19,Mestrado,False
+CAND-0263,PM,5,4813.79,Superior,False
+CAND-0264,Data Scientist,4,4650.01,Superior,False
+CAND-0265,Data Scientist,7,15489.95,Superior,False
+CAND-0266,PM,4,15145.5,Superior,True
+CAND-0267,PM,2,5352.25,Pós-Graduação,False
+CAND-0268,Dev Senior,2,19190.79,Superior,False
+CAND-0269,Dev Senior,5,8217.52,Médio,False
+CAND-0270,PM,1,14072.98,Pós-Graduação,False
+CAND-0271,Dev Senior,3,9783.03,Superior,False
+CAND-0272,Data Scientist,3,10928.85,Médio,False
+CAND-0273,Dev Senior,13,13229.64,Superior,False
+CAND-0274,Dev Junior,4,17453.61,Pós-Graduação,False
+CAND-0275,Data Scientist,10,6417.67,Mestrado,False
+CAND-0276,Data Scientist,10,5727.74,Mestrado,False
+CAND-0277,PM,2,12608.52,Pós-Graduação,False
+CAND-0278,PM,8,7214.43,Pós-Graduação,False
+CAND-0279,Data Scientist,7,10036.74,Pós-Graduação,False
+CAND-0280,Dev Senior,10,16169.12,Médio,False
+CAND-0281,Data Scientist,10,3461.0,Pós-Graduação,False
+CAND-0282,Dev Junior,14,17940.56,Médio,False
+CAND-0283,PM,13,4701.59,Pós-Graduação,False
+CAND-0284,PM,1,15748.53,Pós-Graduação,False
+CAND-0285,Dev Junior,9,4779.77,Mestrado,False
+CAND-0286,Dev Junior,5,18602.91,Superior,False
+CAND-0287,PM,12,19726.19,Pós-Graduação,False
+CAND-0288,Data Scientist,1,5891.33,Pós-Graduação,False
+CAND-0289,Dev Junior,9,15803.96,Mestrado,False
+CAND-0290,Dev Senior,11,11972.21,Mestrado,False
+CAND-0291,Dev Junior,3,10124.48,Médio,False
+CAND-0292,PM,8,3840.59,Mestrado,False
+CAND-0293,PM,2,14197.8,Superior,False
+CAND-0294,Dev Senior,9,8905.92,Superior,False
+CAND-0295,Data Scientist,14,11998.74,Pós-Graduação,True
+CAND-0296,Data Scientist,9,18318.87,Médio,False
+CAND-0297,Data Scientist,5,7410.14,Mestrado,False
+CAND-0298,Dev Senior,2,9973.99,Superior,False
+CAND-0299,Dev Senior,0,14938.14,Médio,False

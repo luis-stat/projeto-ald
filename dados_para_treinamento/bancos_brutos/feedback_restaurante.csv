@@ -1,0 +1,301 @@
+survey_id,customer_comments,satisfaction_level,visit_date
+SRV-0,Delicioso,Neutro,2023-06-01 23:27:13
+SRV-1,Preço justo,Satisfeito,2023-09-25 23:23:54
+SRV-2,Comida fria,Satisfeito,2023-02-25 08:32:50
+SRV-3,Garçom mal educado,Muito Satisfeito,2023-08-29 12:29:13
+SRV-4,Comida fria,Neutro,2023-01-23 03:05:20
+SRV-5,Ambiente barulhento,Insatisfeito,2023-03-11 20:14:03
+SRV-6,Preço justo,Satisfeito,2023-03-17 07:22:19
+SRV-7,Preço justo,Muito Satisfeito,2023-01-19 11:30:05
+SRV-8,Garçom mal educado,Neutro,2023-06-25 06:45:50
+SRV-9,Garçom mal educado,Insatisfeito,2023-08-27 16:52:54
+SRV-10,Preço justo,Insatisfeito,2023-05-12 02:13:30
+SRV-11,Delicioso,Insatisfeito,2023-09-10 20:05:09
+SRV-12,Voltarei sempre,Neutro,2023-07-25 07:54:55
+SRV-13,Ambiente barulhento,Satisfeito,2023-10-07 09:53:30
+SRV-14,Garçom mal educado,Insatisfeito,2023-04-11 16:57:59
+SRV-15,Garçom mal educado,Neutro,2023-07-25 02:13:47
+SRV-16,Preço justo,Muito Satisfeito,2023-06-07 04:45:20
+SRV-17,Garçom mal educado,Muito Satisfeito,2023-03-11 14:25:07
+SRV-18,Voltarei sempre,Insatisfeito,2023-10-03 23:37:32
+SRV-19,Delicioso,Satisfeito,2023-06-14 14:40:07
+SRV-20,Comida fria,Insatisfeito,2023-02-18 16:29:26
+SRV-21,Voltarei sempre,Neutro,2023-09-14 12:04:42
+SRV-22,Preço justo,Satisfeito,2023-06-12 10:55:51
+SRV-23,Delicioso,Muito Satisfeito,2023-05-22 04:11:49
+SRV-24,Voltarei sempre,Muito Satisfeito,2023-04-02 08:39:45
+SRV-25,Comida fria,Insatisfeito,2023-09-02 06:48:43
+SRV-26,Garçom mal educado,Muito Satisfeito,2023-08-04 02:02:56
+SRV-27,Comida fria,Neutro,2023-03-19 17:25:17
+SRV-28,Ambiente barulhento,Muito Satisfeito,2023-10-28 12:05:18
+SRV-29,Voltarei sempre,Satisfeito,2023-10-18 03:53:54
+SRV-30,Voltarei sempre,Muito Satisfeito,2023-08-03 05:24:21
+SRV-31,Comida fria,Neutro,2023-01-17 19:11:39
+SRV-32,Preço justo,Muito Satisfeito,2023-08-02 08:22:50
+SRV-33,Voltarei sempre,Satisfeito,2023-02-06 18:42:12
+SRV-34,Preço justo,Insatisfeito,2023-11-21 06:53:27
+SRV-35,Garçom mal educado,Insatisfeito,2023-02-18 13:13:33
+SRV-36,Delicioso,Neutro,2023-12-22 03:02:22
+SRV-37,Voltarei sempre,Insatisfeito,2023-05-01 13:34:59
+SRV-38,Ambiente barulhento,Muito Satisfeito,2023-10-24 11:13:53
+SRV-39,Voltarei sempre,Insatisfeito,2023-11-21 06:14:20
+SRV-40,Preço justo,Satisfeito,2023-06-13 01:38:09
+SRV-41,Preço justo,Neutro,2023-06-02 07:48:14
+SRV-42,Preço justo,Satisfeito,2023-10-20 01:06:27
+SRV-43,Voltarei sempre,Satisfeito,2023-01-06 09:50:06
+SRV-44,Preço justo,Muito Satisfeito,2023-02-24 19:38:50
+SRV-45,Voltarei sempre,Muito Satisfeito,2023-05-28 23:20:16
+SRV-46,Preço justo,Satisfeito,2023-11-19 18:44:23
+SRV-47,Voltarei sempre,Satisfeito,2023-03-12 06:42:44
+SRV-48,Garçom mal educado,Satisfeito,2023-04-09 11:33:11
+SRV-49,Preço justo,Muito Satisfeito,2023-03-16 10:42:47
+SRV-50,Delicioso,Muito Satisfeito,2023-07-22 08:53:50
+SRV-51,Delicioso,Insatisfeito,2023-09-12 12:10:26
+SRV-52,Voltarei sempre,Neutro,2023-01-24 08:55:54
+SRV-53,Garçom mal educado,Satisfeito,2023-12-19 00:12:29
+SRV-54,Delicioso,Neutro,2023-05-08 11:03:30
+SRV-55,Ambiente barulhento,Insatisfeito,2023-06-03 18:14:03
+SRV-56,Garçom mal educado,Muito Satisfeito,2023-07-26 10:14:43
+SRV-57,Garçom mal educado,Insatisfeito,2023-10-30 21:14:50
+SRV-58,Delicioso,Satisfeito,2023-09-06 14:36:07
+SRV-59,Ambiente barulhento,Neutro,2023-06-01 16:57:19
+SRV-60,Ambiente barulhento,Neutro,2023-10-31 11:07:57
+SRV-61,Preço justo,Neutro,2023-05-27 08:13:51
+SRV-62,Garçom mal educado,Muito Satisfeito,2023-05-30 10:51:19
+SRV-63,Garçom mal educado,Insatisfeito,2023-07-30 08:14:20
+SRV-64,Preço justo,Satisfeito,2023-09-25 18:08:34
+SRV-65,Comida fria,Satisfeito,2023-08-23 20:02:55
+SRV-66,Ambiente barulhento,Neutro,2023-06-17 01:55:15
+SRV-67,Delicioso,Neutro,2023-01-26 19:07:22
+SRV-68,Preço justo,Satisfeito,2023-08-17 05:10:19
+SRV-69,Ambiente barulhento,Insatisfeito,2023-03-05 01:00:19
+SRV-70,Delicioso,Satisfeito,2023-07-15 23:04:49
+SRV-71,Preço justo,Satisfeito,2023-07-12 20:47:12
+SRV-72,Ambiente barulhento,Muito Satisfeito,2023-07-24 05:24:31
+SRV-73,Voltarei sempre,Insatisfeito,2023-06-04 02:05:56
+SRV-74,Voltarei sempre,Neutro,2023-03-02 17:44:16
+SRV-75,Ambiente barulhento,Neutro,2023-01-25 15:19:17
+SRV-76,Garçom mal educado,Muito Satisfeito,2023-11-13 20:21:49
+SRV-77,Voltarei sempre,Satisfeito,2023-12-04 15:32:04
+SRV-78,Preço justo,Satisfeito,2023-07-11 02:55:53
+SRV-79,Garçom mal educado,Insatisfeito,2023-03-18 01:10:00
+SRV-80,Voltarei sempre,Satisfeito,2023-11-06 11:59:11
+SRV-81,Garçom mal educado,Insatisfeito,2023-06-16 08:42:33
+SRV-82,Delicioso,Insatisfeito,2023-11-08 08:38:15
+SRV-83,Garçom mal educado,Neutro,2023-08-07 23:59:29
+SRV-84,Comida fria,Satisfeito,2023-07-26 02:23:51
+SRV-85,Garçom mal educado,Muito Satisfeito,2023-06-16 01:27:41
+SRV-86,Preço justo,Neutro,2023-10-09 06:55:31
+SRV-87,Voltarei sempre,Satisfeito,2023-10-17 14:25:22
+SRV-88,Garçom mal educado,Muito Satisfeito,2023-08-16 21:25:48
+SRV-89,Voltarei sempre,Muito Satisfeito,2023-03-20 07:47:00
+SRV-90,Ambiente barulhento,Muito Satisfeito,2023-09-16 17:22:56
+SRV-91,Delicioso,Muito Satisfeito,2023-12-10 13:57:57
+SRV-92,Comida fria,Satisfeito,2023-10-22 06:45:10
+SRV-93,Voltarei sempre,Satisfeito,2023-03-01 17:11:42
+SRV-94,Voltarei sempre,Muito Satisfeito,2023-04-07 06:19:40
+SRV-95,Voltarei sempre,Muito Satisfeito,2023-04-17 16:14:23
+SRV-96,Preço justo,Satisfeito,2023-09-15 02:51:07
+SRV-97,Comida fria,Satisfeito,2023-02-02 02:37:09
+SRV-98,Ambiente barulhento,Insatisfeito,2023-07-05 11:06:56
+SRV-99,Voltarei sempre,Satisfeito,2023-05-17 00:10:10
+SRV-100,Garçom mal educado,Satisfeito,2023-03-30 13:28:24
+SRV-101,Delicioso,Insatisfeito,2023-04-04 04:23:57
+SRV-102,Voltarei sempre,Insatisfeito,2023-01-22 17:02:14
+SRV-103,Garçom mal educado,Neutro,2023-03-01 18:30:15
+SRV-104,Voltarei sempre,Muito Satisfeito,2023-10-10 23:28:03
+SRV-105,Garçom mal educado,Insatisfeito,2023-06-05 03:35:36
+SRV-106,Delicioso,Satisfeito,2023-01-25 12:36:31
+SRV-107,Delicioso,Muito Satisfeito,2023-02-06 10:56:26
+SRV-108,Garçom mal educado,Neutro,2023-02-17 17:24:32
+SRV-109,Ambiente barulhento,Muito Satisfeito,2023-06-11 06:34:08
+SRV-110,Ambiente barulhento,Neutro,2023-11-20 09:52:03
+SRV-111,Delicioso,Insatisfeito,2023-03-06 07:43:13
+SRV-112,Preço justo,Neutro,2023-06-28 12:57:21
+SRV-113,Comida fria,Insatisfeito,2023-03-05 14:57:50
+SRV-114,Voltarei sempre,Muito Satisfeito,2023-11-01 03:01:27
+SRV-115,Voltarei sempre,Neutro,2023-11-14 11:36:34
+SRV-116,Preço justo,Muito Satisfeito,2023-03-11 07:31:37
+SRV-117,Ambiente barulhento,Muito Satisfeito,2023-02-04 00:15:47
+SRV-118,Delicioso,Insatisfeito,2023-08-04 05:24:24
+SRV-119,Voltarei sempre,Insatisfeito,2023-11-15 16:06:43
+SRV-120,Voltarei sempre,Insatisfeito,2023-02-02 21:01:22
+SRV-121,Comida fria,Muito Satisfeito,2023-10-28 15:38:37
+SRV-122,Voltarei sempre,Muito Satisfeito,2023-07-04 11:37:26
+SRV-123,Comida fria,Satisfeito,2023-07-21 07:32:36
+SRV-124,Comida fria,Neutro,2023-07-06 02:52:26
+SRV-125,Preço justo,Muito Satisfeito,2023-11-11 21:19:05
+SRV-126,Comida fria,Muito Satisfeito,2023-06-19 11:08:25
+SRV-127,Comida fria,Neutro,2023-03-22 15:55:56
+SRV-128,Garçom mal educado,Satisfeito,2023-06-26 06:08:27
+SRV-129,Preço justo,Insatisfeito,2023-01-23 15:01:24
+SRV-130,Comida fria,Satisfeito,2023-09-15 09:37:17
+SRV-131,Comida fria,Neutro,2023-04-05 19:58:49
+SRV-132,Ambiente barulhento,Muito Satisfeito,2023-09-28 21:31:33
+SRV-133,Voltarei sempre,Muito Satisfeito,2023-05-07 08:29:52
+SRV-134,Garçom mal educado,Muito Satisfeito,2023-03-13 07:53:55
+SRV-135,Comida fria,Satisfeito,2023-12-19 02:18:18
+SRV-136,Voltarei sempre,Satisfeito,2023-07-29 14:57:47
+SRV-137,Garçom mal educado,Insatisfeito,2023-07-15 21:17:05
+SRV-138,Comida fria,Muito Satisfeito,2023-07-03 01:34:59
+SRV-139,Ambiente barulhento,Insatisfeito,2023-07-15 05:20:13
+SRV-140,Ambiente barulhento,Satisfeito,2023-09-02 13:28:54
+SRV-141,Comida fria,Muito Satisfeito,2023-12-06 13:32:25
+SRV-142,Garçom mal educado,Insatisfeito,2023-09-22 15:38:02
+SRV-143,Ambiente barulhento,Insatisfeito,2023-08-23 14:29:48
+SRV-144,Ambiente barulhento,Insatisfeito,2023-04-01 23:48:21
+SRV-145,Delicioso,Insatisfeito,2023-02-24 04:29:12
+SRV-146,Ambiente barulhento,Satisfeito,2023-04-02 19:27:51
+SRV-147,Garçom mal educado,Neutro,2023-10-21 19:33:53
+SRV-148,Comida fria,Neutro,2023-10-31 06:34:44
+SRV-149,Preço justo,Satisfeito,2023-02-21 06:17:22
+SRV-150,Voltarei sempre,Satisfeito,2023-01-27 16:25:50
+SRV-151,Garçom mal educado,Muito Satisfeito,2023-07-31 02:28:29
+SRV-152,Comida fria,Satisfeito,2023-02-06 07:59:06
+SRV-153,Delicioso,Muito Satisfeito,2023-09-21 08:18:04
+SRV-154,Ambiente barulhento,Satisfeito,2023-08-29 14:20:00
+SRV-155,Preço justo,Neutro,2023-01-12 16:52:28
+SRV-156,Comida fria,Muito Satisfeito,2023-03-12 15:14:45
+SRV-157,Ambiente barulhento,Muito Satisfeito,2023-08-25 03:24:33
+SRV-158,Preço justo,Neutro,2023-06-04 11:54:54
+SRV-159,Preço justo,Insatisfeito,2023-10-16 13:59:56
+SRV-160,Delicioso,Insatisfeito,2023-07-03 07:00:52
+SRV-161,Voltarei sempre,Insatisfeito,2023-05-04 08:09:48
+SRV-162,Delicioso,Satisfeito,2023-03-23 21:05:12
+SRV-163,Preço justo,Satisfeito,2023-08-26 14:21:35
+SRV-164,Preço justo,Muito Satisfeito,2023-08-02 20:49:42
+SRV-165,Preço justo,Neutro,2023-10-03 01:59:59
+SRV-166,Comida fria,Muito Satisfeito,2023-11-21 09:45:19
+SRV-167,Ambiente barulhento,Neutro,2023-02-19 18:57:23
+SRV-168,Garçom mal educado,Neutro,2023-01-11 04:01:50
+SRV-169,Voltarei sempre,Insatisfeito,2023-09-11 21:11:16
+SRV-170,Garçom mal educado,Muito Satisfeito,2023-03-10 21:22:07
+SRV-171,Preço justo,Insatisfeito,2023-11-21 19:54:38
+SRV-172,Delicioso,Satisfeito,2023-07-25 15:30:25
+SRV-173,Delicioso,Muito Satisfeito,2023-04-04 02:34:14
+SRV-174,Garçom mal educado,Neutro,2023-07-12 18:49:12
+SRV-175,Voltarei sempre,Satisfeito,2023-01-18 09:54:49
+SRV-176,Delicioso,Satisfeito,2023-06-23 08:08:19
+SRV-177,Preço justo,Neutro,2023-03-04 16:30:01
+SRV-178,Preço justo,Satisfeito,2023-01-06 11:46:11
+SRV-179,Delicioso,Neutro,2023-11-02 18:41:00
+SRV-180,Preço justo,Insatisfeito,2023-02-17 01:35:26
+SRV-181,Ambiente barulhento,Neutro,2023-03-16 06:41:06
+SRV-182,Comida fria,Insatisfeito,2023-06-26 07:48:49
+SRV-183,Preço justo,Neutro,2023-07-23 22:03:13
+SRV-184,Comida fria,Neutro,2023-06-22 15:09:26
+SRV-185,Ambiente barulhento,Neutro,2023-07-10 08:56:45
+SRV-186,Ambiente barulhento,Insatisfeito,2023-11-25 12:28:57
+SRV-187,Comida fria,Insatisfeito,2023-09-01 05:44:32
+SRV-188,Garçom mal educado,Satisfeito,2023-05-26 05:50:54
+SRV-189,Delicioso,Neutro,2023-01-15 06:07:16
+SRV-190,Preço justo,Satisfeito,2023-06-30 02:48:26
+SRV-191,Garçom mal educado,Neutro,2023-10-20 17:15:07
+SRV-192,Preço justo,Neutro,2023-04-09 17:26:56
+SRV-193,Preço justo,Satisfeito,2023-02-25 11:02:22
+SRV-194,Voltarei sempre,Neutro,2023-07-07 11:09:16
+SRV-195,Delicioso,Insatisfeito,2023-06-28 03:08:10
+SRV-196,Delicioso,Satisfeito,2023-03-24 13:15:07
+SRV-197,Garçom mal educado,Muito Satisfeito,2023-11-30 09:15:46
+SRV-198,Voltarei sempre,Neutro,2023-06-21 01:25:40
+SRV-199,Delicioso,Muito Satisfeito,2023-03-13 02:49:09
+SRV-200,Comida fria,Neutro,2023-06-10 10:56:38
+SRV-201,Voltarei sempre,Neutro,2023-04-24 20:16:01
+SRV-202,Comida fria,Satisfeito,2023-02-01 15:57:09
+SRV-203,Comida fria,Satisfeito,2023-09-11 18:47:31
+SRV-204,Delicioso,Insatisfeito,2023-03-04 17:12:03
+SRV-205,Garçom mal educado,Neutro,2023-02-23 01:03:17
+SRV-206,Delicioso,Satisfeito,2023-05-27 03:17:32
+SRV-207,Garçom mal educado,Satisfeito,2023-01-15 15:53:14
+SRV-208,Ambiente barulhento,Insatisfeito,2023-06-29 07:01:40
+SRV-209,Comida fria,Insatisfeito,2023-01-30 07:54:33
+SRV-210,Comida fria,Satisfeito,2023-09-21 05:35:22
+SRV-211,Preço justo,Muito Satisfeito,2023-11-24 10:51:34
+SRV-212,Preço justo,Muito Satisfeito,2023-10-30 01:09:28
+SRV-213,Garçom mal educado,Insatisfeito,2023-12-01 19:19:05
+SRV-214,Comida fria,Satisfeito,2023-06-16 11:13:26
+SRV-215,Ambiente barulhento,Muito Satisfeito,2023-09-09 09:07:44
+SRV-216,Ambiente barulhento,Insatisfeito,2023-04-21 10:27:17
+SRV-217,Preço justo,Neutro,2023-03-17 00:18:38
+SRV-218,Delicioso,Satisfeito,2023-09-01 10:25:54
+SRV-219,Ambiente barulhento,Muito Satisfeito,2023-03-30 12:27:19
+SRV-220,Comida fria,Muito Satisfeito,2023-09-15 20:28:09
+SRV-221,Comida fria,Muito Satisfeito,2023-07-24 07:01:30
+SRV-222,Comida fria,Muito Satisfeito,2023-11-22 14:28:48
+SRV-223,Ambiente barulhento,Insatisfeito,2023-03-31 05:34:53
+SRV-224,Comida fria,Satisfeito,2023-03-08 22:38:33
+SRV-225,Voltarei sempre,Neutro,2023-11-22 11:52:15
+SRV-226,Garçom mal educado,Insatisfeito,2023-05-26 09:33:28
+SRV-227,Delicioso,Satisfeito,2023-06-09 22:12:49
+SRV-228,Voltarei sempre,Neutro,2023-11-01 02:31:04
+SRV-229,Preço justo,Satisfeito,2023-09-12 18:23:49
+SRV-230,Ambiente barulhento,Insatisfeito,2023-01-09 05:32:38
+SRV-231,Comida fria,Neutro,2023-07-15 09:30:14
+SRV-232,Garçom mal educado,Insatisfeito,2023-07-10 06:40:40
+SRV-233,Preço justo,Neutro,2023-07-16 01:52:42
+SRV-234,Ambiente barulhento,Satisfeito,2023-08-19 23:39:51
+SRV-235,Comida fria,Neutro,2023-12-16 08:25:09
+SRV-236,Voltarei sempre,Satisfeito,2023-05-29 06:24:30
+SRV-237,Voltarei sempre,Insatisfeito,2023-06-14 22:44:32
+SRV-238,Garçom mal educado,Insatisfeito,2023-02-06 20:31:27
+SRV-239,Ambiente barulhento,Satisfeito,2023-09-14 05:43:10
+SRV-240,Garçom mal educado,Satisfeito,2023-10-01 08:56:12
+SRV-241,Ambiente barulhento,Muito Satisfeito,2023-02-16 00:19:25
+SRV-242,Comida fria,Satisfeito,2023-02-20 16:08:25
+SRV-243,Garçom mal educado,Satisfeito,2023-12-07 14:19:19
+SRV-244,Comida fria,Neutro,2023-10-14 17:12:55
+SRV-245,Preço justo,Muito Satisfeito,2023-08-31 09:40:06
+SRV-246,Voltarei sempre,Insatisfeito,2023-10-24 08:19:05
+SRV-247,Preço justo,Neutro,2023-11-02 21:59:28
+SRV-248,Voltarei sempre,Neutro,2023-03-18 15:10:03
+SRV-249,Voltarei sempre,Neutro,2023-02-02 15:51:46
+SRV-250,Preço justo,Neutro,2023-01-25 06:39:58
+SRV-251,Ambiente barulhento,Muito Satisfeito,2023-04-08 19:07:05
+SRV-252,Delicioso,Muito Satisfeito,2023-10-07 02:20:32
+SRV-253,Voltarei sempre,Satisfeito,2023-09-01 01:00:33
+SRV-254,Garçom mal educado,Muito Satisfeito,2023-02-23 19:26:29
+SRV-255,Delicioso,Muito Satisfeito,2023-06-04 12:16:36
+SRV-256,Ambiente barulhento,Insatisfeito,2023-08-17 22:35:17
+SRV-257,Delicioso,Insatisfeito,2023-03-25 23:49:40
+SRV-258,Preço justo,Neutro,2023-12-13 12:33:11
+SRV-259,Garçom mal educado,Muito Satisfeito,2023-06-30 13:27:43
+SRV-260,Preço justo,Satisfeito,2023-11-29 18:53:34
+SRV-261,Garçom mal educado,Insatisfeito,2023-12-25 14:57:40
+SRV-262,Preço justo,Insatisfeito,2023-11-03 23:40:17
+SRV-263,Preço justo,Satisfeito,2023-01-01 11:10:06
+SRV-264,Comida fria,Satisfeito,2023-04-29 05:30:09
+SRV-265,Voltarei sempre,Satisfeito,2023-11-07 01:29:37
+SRV-266,Ambiente barulhento,Muito Satisfeito,2023-10-05 22:26:26
+SRV-267,Garçom mal educado,Neutro,2023-05-04 14:29:00
+SRV-268,Preço justo,Muito Satisfeito,2023-01-27 15:02:37
+SRV-269,Ambiente barulhento,Insatisfeito,2023-08-22 08:09:37
+SRV-270,Ambiente barulhento,Satisfeito,2023-10-12 09:31:08
+SRV-271,Voltarei sempre,Satisfeito,2023-08-11 14:04:12
+SRV-272,Voltarei sempre,Insatisfeito,2023-03-26 02:51:10
+SRV-273,Comida fria,Neutro,2023-09-22 19:25:47
+SRV-274,Ambiente barulhento,Muito Satisfeito,2023-11-11 12:40:27
+SRV-275,Garçom mal educado,Neutro,2023-11-27 15:23:55
+SRV-276,Ambiente barulhento,Insatisfeito,2023-05-02 07:27:11
+SRV-277,Ambiente barulhento,Satisfeito,2023-03-15 10:06:43
+SRV-278,Delicioso,Neutro,2023-05-15 22:28:02
+SRV-279,Comida fria,Neutro,2023-09-17 17:07:39
+SRV-280,Comida fria,Muito Satisfeito,2023-07-05 01:36:37
+SRV-281,Comida fria,Insatisfeito,2023-03-23 05:53:49
+SRV-282,Voltarei sempre,Muito Satisfeito,2023-02-23 01:59:45
+SRV-283,Delicioso,Neutro,2023-01-02 16:23:03
+SRV-284,Delicioso,Neutro,2023-10-30 23:09:39
+SRV-285,Ambiente barulhento,Neutro,2023-08-12 02:26:26
+SRV-286,Ambiente barulhento,Insatisfeito,2023-06-09 08:57:03
+SRV-287,Ambiente barulhento,Muito Satisfeito,2023-05-20 07:41:47
+SRV-288,Voltarei sempre,Neutro,2023-02-26 02:19:35
+SRV-289,Comida fria,Satisfeito,2023-12-06 21:17:02
+SRV-290,Comida fria,Insatisfeito,2023-10-11 11:06:26
+SRV-291,Delicioso,Insatisfeito,2023-10-17 11:28:44
+SRV-292,Voltarei sempre,Insatisfeito,2023-09-28 09:49:57
+SRV-293,Ambiente barulhento,Satisfeito,2023-01-17 01:39:48
+SRV-294,Comida fria,Satisfeito,2023-05-30 00:21:38
+SRV-295,Delicioso,Neutro,2023-07-11 09:37:39
+SRV-296,Comida fria,Insatisfeito,2023-06-20 14:54:46
+SRV-297,Delicioso,Insatisfeito,2023-11-30 21:34:09
+SRV-298,Delicioso,Muito Satisfeito,2023-06-13 02:02:25
+SRV-299,Voltarei sempre,Muito Satisfeito,2023-09-06 17:22:23
